@@ -20,7 +20,11 @@ export default function Home() {
   const [, navigate] = useLocation();
   const { user } = useAuth();
   const { location, setShowLocationModal, showLocationModal, getCurrentLocation } = useUserLocation();
-  const [filters, setFilters] = useState<PantryFilter>({ isOpen: true });
+  const [filters, setFilters] = useState<PantryFilter>({ 
+    isOpen: true,
+    walkingDistance: true,
+    maxDistance: 2 // Default to 2 miles max distance
+  });
   const [showMapView, setShowMapView] = useState<boolean>(true);
   const [selectedPantryId, setSelectedPantryId] = useState<string | null>(null);
   const [contactPantryId, setContactPantryId] = useState<string | null>(null);
@@ -150,10 +154,14 @@ export default function Home() {
               Try adjusting your filters or location to find more results
             </p>
             <button
-              onClick={() => setFilters({})}
+              onClick={() => setFilters({ 
+                walkingDistance: true, 
+                maxDistance: 2,
+                isOpen: true
+              })}
               className="text-primary font-medium"
             >
-              Clear all filters
+              Reset to default filters
             </button>
           </div>
         )}

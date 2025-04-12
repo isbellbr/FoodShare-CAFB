@@ -165,6 +165,87 @@ export class MemStorage implements IStorage {
           saturday: { open: "11:00", close: "19:00" },
         },
         specialNotes: "• Gluten-free options available\n• Fresh produce deliveries on Tuesday and Friday\n• Bring reusable containers for prepared meals"
+      },
+      {
+        name: "Phoenix Community Pantry",
+        description: "Local pantry with fresh produce and non-perishable items.",
+        address: "123 Community Ave, Phoenix, AZ 85003",
+        latitude: 33.442,
+        longitude: -112.068,
+        contactPhone: "(602) 555-4567",
+        contactEmail: "info@phoenixpantry.org",
+        imageUrl: "https://images.unsplash.com/photo-1581515286348-98549f357f34",
+        adminId: 1,
+        walkingDistance: 0.3,
+        offersDelivery: true,
+        openingHours: {
+          monday: { open: "08:00", close: "18:00" },
+          tuesday: { open: "08:00", close: "18:00" },
+          wednesday: { open: "08:00", close: "18:00" },
+          thursday: { open: "08:00", close: "18:00" },
+          friday: { open: "08:00", close: "18:00" },
+          saturday: { open: "09:00", close: "14:00" },
+        },
+        specialNotes: "• Proof of residence required\n• Specializes in culturally diverse food options\n• Weekly cooking classes available"
+      },
+      {
+        name: "Desert Sun Food Share",
+        description: "Friendly neighborhood pantry with weekly distributions.",
+        address: "555 Camelback Rd, Phoenix, AZ 85014",
+        latitude: 33.509,
+        longitude: -112.073,
+        contactPhone: "(602) 555-5678",
+        contactEmail: "help@desertsunfood.org",
+        imageUrl: "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd",
+        adminId: 1,
+        walkingDistance: 0.6,
+        offersDelivery: false,
+        openingHours: {
+          tuesday: { open: "09:00", close: "16:00" },
+          thursday: { open: "09:00", close: "16:00" },
+          saturday: { open: "10:00", close: "15:00" },
+        },
+        specialNotes: "• Fresh bread available early morning\n• Diaper bank available for families with children\n• Monthly health screenings available"
+      },
+      {
+        name: "Casa de Esperanza",
+        description: "Hispanic-focused pantry with cultural food options and resources.",
+        address: "777 Esperanza Blvd, Phoenix, AZ 85006",
+        latitude: 33.467,
+        longitude: -112.055,
+        contactPhone: "(602) 555-6789",
+        contactEmail: "info@casaesperanza.org",
+        imageUrl: "https://images.unsplash.com/photo-1533900298318-6b8da08a523e",
+        adminId: 1,
+        walkingDistance: 1.0,
+        offersDelivery: true,
+        openingHours: {
+          monday: { open: "10:00", close: "16:00" },
+          wednesday: { open: "10:00", close: "16:00" },
+          friday: { open: "10:00", close: "16:00" },
+        },
+        specialNotes: "• Bilingual staff available\n• Traditional Hispanic ingredients\n• Immigration resource center on-site"
+      },
+      {
+        name: "University Food Assistance",
+        description: "Student-focused pantry near campus with grab-and-go options.",
+        address: "1200 University Dr, Phoenix, AZ 85004",
+        latitude: 33.424,
+        longitude: -112.048,
+        contactPhone: "(602) 555-7890",
+        contactEmail: "foodassist@university.edu",
+        imageUrl: "https://images.unsplash.com/photo-1594708767771-a5f3382a60b9",
+        adminId: 1,
+        walkingDistance: 0.2,
+        offersDelivery: false,
+        openingHours: {
+          monday: { open: "07:30", close: "19:30" },
+          tuesday: { open: "07:30", close: "19:30" },
+          wednesday: { open: "07:30", close: "19:30" },
+          thursday: { open: "07:30", close: "19:30" },
+          friday: { open: "07:30", close: "17:00" },
+        },
+        specialNotes: "• Student ID required\n• Quick grab-and-go meals available\n• Meal vouchers for campus dining"
       }
     ];
     
