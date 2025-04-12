@@ -109,7 +109,7 @@ export class MemStorage implements IStorage {
         longitude: -112.126,
         contactPhone: "(602) 555-1234",
         contactEmail: "info@stmarysfoodbank.org",
-        imageUrl: "https://images.unsplash.com/photo-1593113598332-cd59a93e6f91",
+        imageUrl: "https://cdn.arizonasports.com/arizonasports/wp-content/uploads/2023/10/ckcnnp8ocqmompwk5dpw-1-e1698792777180.jpg",
         adminId: 1,
         walkingDistance: 0.8,
         offersDelivery: false,
@@ -118,7 +118,7 @@ export class MemStorage implements IStorage {
           tuesday: { open: "09:00", close: "17:00" },
           wednesday: { open: "09:00", close: "17:00" },
           thursday: { open: "09:00", close: "17:00" },
-          friday: { open: "09:00", close: "17:00" },
+          friday: { open: "09:00", close: "23:00" },
           saturday: { open: "08:00", close: "13:00" },
         },
         specialNotes: "• ID required for first visit\n• New food deliveries arrive on Mondays and Thursdays\n• Please bring your own bags if possible\n• Most produce requires washing before consumption\n• Limit of one visit per week per household"
@@ -174,7 +174,7 @@ export class MemStorage implements IStorage {
         longitude: -112.068,
         contactPhone: "(602) 555-4567",
         contactEmail: "info@phoenixpantry.org",
-        imageUrl: "https://images.unsplash.com/photo-1581515286348-98549f357f34",
+        imageUrl: "https://www.azcentral.com/gcdn/-mm-/60d2f7e2369715e9fb7e4427c90d8e0e179eca29/c=0-78-1087-692/local/-/media/2017/08/07/Phoenix/Phoenix/636377347805580426-thumb-DSC-0198-1024.jpg?width=660&height=371&fit=crop&format=pjpg&auto=webp",
         adminId: 1,
         walkingDistance: 0.3,
         offersDelivery: true,
@@ -234,7 +234,7 @@ export class MemStorage implements IStorage {
         longitude: -112.048,
         contactPhone: "(602) 555-7890",
         contactEmail: "foodassist@university.edu",
-        imageUrl: "https://images.unsplash.com/photo-1594708767771-a5f3382a60b9",
+        imageUrl: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/2/72/2722bdd6-ba45-11ee-b988-8bc5ddda91ed/65b04852af60b.image.jpg?resize=762%2C500",
         adminId: 1,
         walkingDistance: 0.2,
         offersDelivery: false,
@@ -246,7 +246,25 @@ export class MemStorage implements IStorage {
           friday: { open: "07:30", close: "17:00" },
         },
         specialNotes: "• Student ID required\n• Quick grab-and-go meals available\n• Meal vouchers for campus dining"
-      }
+      }, {
+        name: "Tempe Community Pantry",
+        description: "Provides essential groceries and hygiene products for low-income residents.",
+        address: "1000 Apache Blvd, Tempe, AZ 85281",
+        latitude: 33.414,
+        longitude: -111.926,
+        contactPhone: "(480) 555-1010",
+        contactEmail: "support@tempepantry.org",
+        imageUrl: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+        adminId: 1,
+        walkingDistance: 1.1,
+        offersDelivery: true,
+        openingHours: {
+          monday: { open: "09:00", close: "17:00" },
+          wednesday: { open: "09:00", close: "17:00" },
+          friday: { open: "09:00", close: "17:00" },
+        },
+        specialNotes: "• ID and proof of income required\n• Hygiene kits available weekly\n• Accepts food donations"
+      },
     ];
     
     samplePantries.forEach(pantry => this.createPantry(pantry));
@@ -607,7 +625,10 @@ export class MemStorage implements IStorage {
 
   async createReservation(reservation: InsertReservation): Promise<Reservation> {
     const id = this.currentReservationId++;
-    const newReservation: Reservation = { ...reservation, id };
+    const newReservation: Reservation = {
+      ...reservation,
+      id,
+    };
     this.reservations.set(id, newReservation);
     return newReservation;
   }

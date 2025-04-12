@@ -21,7 +21,7 @@ export default function Home() {
   const { user } = useAuth();
   const { location, setShowLocationModal, showLocationModal, getCurrentLocation } = useUserLocation();
   const [filters, setFilters] = useState<PantryFilter>({ 
-    isOpen: true,
+    isOpen: false,
     walkingDistance: true,
     maxDistance: 2 // Default to 2 miles max distance
   });
@@ -157,7 +157,7 @@ export default function Home() {
               onClick={() => setFilters({ 
                 walkingDistance: true, 
                 maxDistance: 2,
-                isOpen: true
+                isOpen: false
               })}
               className="text-primary font-medium"
             >

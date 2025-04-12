@@ -45,19 +45,19 @@ export default function PantryCard({ pantry, onReserve, onContact }: PantryCardP
   };
   
   return (
-    <div className="pantry-card bg-white rounded-lg shadow overflow-hidden" onClick={handleCardClick}>
+    <div className="pantry-card bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300 cursor-pointer border border-neutral-200" onClick={handleCardClick}>
       <div className="flex md:flex-row flex-col">
-        <div className="md:w-1/3 h-40 md:h-auto">
+        <div className="md:w-1/3 h-48 md:h-auto overflow-hidden">
           <img
             src={pantry.imageUrl || "https://images.unsplash.com/photo-1593113598332-cd59a93e6f91"}
             alt={`${pantry.name} food pantry`}
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover max-h-60 rounded-t-xl md:rounded-l-xl md:rounded-tr-none"
           />
         </div>
         <div className="p-4 md:w-2/3 flex flex-col justify-between">
           <div>
             <div className="flex justify-between items-start">
-              <h3 className="text-lg font-heading font-semibold">{pantry.name}</h3>
+              <h3 className="text-xl font-heading font-semibold text-neutral-dark">{pantry.name}</h3>
               <span className={`status-badge status-${status}`}>{statusText}</span>
             </div>
             <div className="flex items-center mt-1 text-neutral-gray text-sm">
@@ -109,7 +109,7 @@ export default function PantryCard({ pantry, onReserve, onContact }: PantryCardP
             <div className="mt-2">
               <div className="flex space-x-1 mb-2 flex-wrap gap-y-1">
                 {getFoodCategories().map((category, i) => (
-                  <span key={i} className="px-2 py-1 bg-neutral-light text-xs rounded">
+                  <span key={i} className="px-3 py-1 bg-neutral-light text-xs rounded-full text-neutral-dark border border-neutral-300">
                     {category}
                   </span>
                 ))}
@@ -127,7 +127,7 @@ export default function PantryCard({ pantry, onReserve, onContact }: PantryCardP
                       <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
                     </svg>
                   ))}
-                  <span className="ml-1 text-neutral-dark">4.2</span>
+                  <span className="ml-2 text-neutral-dark font-medium">4.2</span>
                   <span className="ml-1 text-neutral-gray">(46)</span>
                 </div>
               </div>
