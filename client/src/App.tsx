@@ -15,7 +15,6 @@ import Auth from "@/pages/Auth";
 import Admin from "@/pages/Admin";
 import NotFound from "@/pages/not-found";
 import { UserContext } from "./hooks/useAuth";
-import DebugEnv from "@/components/DebugEnv";
 
 function App() {
   const [user, setUser] = useState<any>(null);
@@ -66,10 +65,7 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <UserContext.Provider value={{ user, setUser, profile, loading, isAdmin }}>
         <div className="flex flex-col min-h-screen">
-          <div className="fixed top-0 left-0 z-50 w-full">
-            <DebugEnv />
-          </div>
-          <div className="flex-grow pt-12">
+          <div className="flex-grow">
             <Switch>
               <Route path="/" component={Home} />
               <Route path="/pantry/:id" component={PantryDetails} />

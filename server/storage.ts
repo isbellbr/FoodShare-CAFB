@@ -91,9 +91,9 @@ export class MemStorage implements IStorage {
       displayName: "Admin",
       isAdmin: true,
       location: {
-        latitude: 37.7749,
-        longitude: -122.4194,
-        address: "San Francisco, CA"
+        latitude: 33.45,
+        longitude: -112.07,
+        address: "Phoenix, AZ"
       }
     };
     
@@ -301,7 +301,16 @@ export class MemStorage implements IStorage {
 
   async createUser(insertUser: InsertUser): Promise<User> {
     const id = this.currentUserId++;
-    const user: User = { ...insertUser, id };
+    // Apply proper defaults to match User type
+    const user: User = { 
+      ...insertUser, 
+      id,
+      displayName: insertUser.displayName || null,
+      email: insertUser.email || null,
+      isAdmin: insertUser.isAdmin || false,
+      profileImage: insertUser.profileImage || null,
+      location: insertUser.location || null,
+    };
     this.users.set(id, user);
     return user;
   }
@@ -326,7 +335,19 @@ export class MemStorage implements IStorage {
 
   async createPantry(pantry: InsertPantry): Promise<Pantry> {
     const id = this.currentPantryId++;
-    const newPantry: Pantry = { ...pantry, id };
+    // Apply proper defaults to match Pantry type
+    const newPantry: Pantry = { 
+      ...pantry, 
+      id,
+      description: pantry.description || null,
+      contactPhone: pantry.contactPhone || null,
+      contactEmail: pantry.contactEmail || null,
+      website: pantry.website || null,
+      imageUrl: pantry.imageUrl || null,
+      offersDelivery: pantry.offersDelivery || false,
+      walkingDistance: pantry.walkingDistance || null,
+      specialNotes: pantry.specialNotes || null,
+    };
     this.pantries.set(id, newPantry);
     return newPantry;
   }
@@ -384,7 +405,17 @@ export class MemStorage implements IStorage {
 
   async createFoodItem(item: InsertFoodItem): Promise<FoodItem> {
     const id = this.currentFoodItemId++;
-    const newItem: FoodItem = { ...item, id };
+    // Apply proper defaults to match FoodItem type
+    const newItem: FoodItem = { 
+      ...item, 
+      id,
+      inStock: item.inStock ?? null,
+      quantity: item.quantity || null,
+      freshness: item.freshness || null,
+      deliveryDate: item.deliveryDate || null,
+      dietaryType: item.dietaryType || null,
+      preparationRequired: item.preparationRequired || null,
+    };
     this.foodItems.set(id, newItem);
     return newItem;
   }
