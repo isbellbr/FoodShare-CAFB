@@ -36,7 +36,7 @@ export default function MapView({ pantries, userLocation, onToggleView }: MapVie
   useEffect(() => {
     if (!mapLoaded || !mapRef.current) return;
     
-    const defaultLocation = { lat: 37.7749, lng: -122.4194 }; // San Francisco default
+    const defaultLocation = { lat: 33.45, lng: -112.07 }; // Phoenix, AZ default
     
     const mapOptions: google.maps.MapOptions = {
       center: userLocation 

@@ -309,7 +309,11 @@ export class MemStorage implements IStorage {
       email: insertUser.email || null,
       isAdmin: insertUser.isAdmin || false,
       profileImage: insertUser.profileImage || null,
-      location: insertUser.location || null,
+      location: insertUser.location ? {
+        latitude: typeof insertUser.location.latitude === 'number' ? insertUser.location.latitude : undefined,
+        longitude: typeof insertUser.location.longitude === 'number' ? insertUser.location.longitude : undefined,
+        address: typeof insertUser.location.address === 'string' ? insertUser.location.address : undefined
+      } : null,
     };
     this.users.set(id, user);
     return user;
@@ -347,6 +351,8 @@ export class MemStorage implements IStorage {
       offersDelivery: pantry.offersDelivery || false,
       walkingDistance: pantry.walkingDistance || null,
       specialNotes: pantry.specialNotes || null,
+      // Ensure adminId is null and not undefined
+      adminId: pantry.adminId || null,
     };
     this.pantries.set(id, newPantry);
     return newPantry;
@@ -413,7 +419,12 @@ export class MemStorage implements IStorage {
       quantity: item.quantity || null,
       freshness: item.freshness || null,
       deliveryDate: item.deliveryDate || null,
-      dietaryType: item.dietaryType || null,
+      dietaryType: item.dietaryType ? {
+        vegetarian: typeof item.dietaryType.vegetarian === 'boolean' ? item.dietaryType.vegetarian : undefined,
+        vegan: typeof item.dietaryType.vegan === 'boolean' ? item.dietaryType.vegan : undefined,
+        glutenFree: typeof item.dietaryType.glutenFree === 'boolean' ? item.dietaryType.glutenFree : undefined,
+        dairyFree: typeof item.dietaryType.dairyFree === 'boolean' ? item.dietaryType.dairyFree : undefined
+      } : null,
       preparationRequired: item.preparationRequired || null,
     };
     this.foodItems.set(id, newItem);
@@ -448,7 +459,12 @@ export class MemStorage implements IStorage {
 
   async createReview(review: InsertReview): Promise<Review> {
     const id = this.currentReviewId++;
-    const newReview: Review = { ...review, id };
+    const newReview: Review = { 
+      ...review, 
+      id,
+      comment: review.comment || null,
+      createdAt: review.createdAt || new Date()
+    };
     this.reviews.set(id, newReview);
     return newReview;
   }
