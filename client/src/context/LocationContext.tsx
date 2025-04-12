@@ -75,10 +75,10 @@ export function LocationProvider({ children }: { children: ReactNode }) {
 
       // Use Google Maps Geocoding API to get address
       try {
+        // Hardcode Google Maps API Key to avoid environment variable issues
+        const googleMapsApiKey = "AIzaSyBoRd8cypQqd8tWw7OIPajdpDEmfVUVhXQ";
         const response = await fetch(
-          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${
-            import.meta.env.VITE_GOOGLE_MAPS_API_KEY || ""
-          }`
+          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${googleMapsApiKey}`
         );
         const data = await response.json();
 

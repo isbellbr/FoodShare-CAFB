@@ -4,6 +4,13 @@ import "./index.css";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { queryClient } from "./lib/queryClient";
 
+// Declare global window interface
+declare global {
+  interface Window {
+    initMap: () => void;
+  }
+}
+
 // Load Google Maps script dynamically
 const loadGoogleMapsScript = () => {
   const script = document.createElement("script");

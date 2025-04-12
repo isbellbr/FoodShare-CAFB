@@ -41,10 +41,12 @@ export default function LocationModal({ open, onOpenChange }: LocationModalProps
     setIsLoading(true);
     try {
       // Use Google Maps Geocoding API to convert address to coordinates
+      // Hardcode Google Maps API Key to avoid environment variable issues
+      const googleMapsApiKey = "AIzaSyBoRd8cypQqd8tWw7OIPajdpDEmfVUVhXQ";
       const response = await fetch(
         `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(
           address
-        )}&key=${import.meta.env.VITE_GOOGLE_MAPS_API_KEY || ""}`
+        )}&key=${googleMapsApiKey}`
       );
       
       const data = await response.json();
