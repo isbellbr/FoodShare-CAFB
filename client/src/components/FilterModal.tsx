@@ -17,7 +17,11 @@ export default function FilterModal({ filters, setFilters, onClose }: FilterModa
   };
 
   const handleResetFilters = () => {
-    setLocalFilters({});
+    setLocalFilters({ 
+      walkingDistance: true, 
+      maxDistance: 2,
+      isOpen: true
+    });
   };
 
   const handleApplyFilters = () => {
@@ -422,21 +426,32 @@ export default function FilterModal({ filters, setFilters, onClose }: FilterModa
           </div>
         </div>
 
-        <div className="p-4">
-          <div className="flex space-x-3">
+        <div className="p-4 sticky bottom-0 bg-white border-t">
+          <div className="flex items-center justify-between mb-3">
             <button
-              className="flex-1 bg-neutral-light text-neutral-dark py-3 rounded-lg font-medium"
+              className="text-primary text-sm flex items-center"
               onClick={handleResetFilters}
             >
-              Reset
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              Reset to defaults
             </button>
-            <button
-              className="flex-1 bg-primary text-white py-3 rounded-lg font-medium"
-              onClick={handleApplyFilters}
-            >
-              Apply Filters
-            </button>
+            
+            <div className="text-xs text-gray-500">
+              {Object.keys(localFilters).length} filters selected
+            </div>
           </div>
+          
+          <button
+            className="w-full bg-primary text-white py-3 rounded-lg font-medium flex items-center justify-center"
+            onClick={handleApplyFilters}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
+            </svg>
+            Apply Filters
+          </button>
         </div>
       </div>
     </div>
