@@ -20,9 +20,20 @@ export const usePantries = (
   const { data: pantries = [], isLoading, error } = useQuery({
     queryKey: ["pantries"],
     queryFn: async () => {
-      const response = await apiRequest<any[]>("/api/pantries");
-      // Convert number IDs to string IDs for client-side compatibility
-      return response.map((pantry: any) => convertPantry(pantry));
+      console.log("Fetching pantries from API");
+      try {
+        const response = await apiRequest<any[]>("/api/pantries");
+        console.log("API response:", response);
+        
+        // Convert number IDs to string IDs for client-side compatibility
+        const convertedPantries = response.map((pantry: any) => convertPantry(pantry));
+        console.log("Converted pantries:", convertedPantries);
+        
+        return convertedPantries;
+      } catch (error) {
+        console.error("Error fetching pantries:", error);
+        throw error;
+      }
     },
     staleTime: 5 * 60 * 1000, // 5 minutes
   });

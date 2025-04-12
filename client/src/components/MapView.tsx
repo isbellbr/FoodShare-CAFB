@@ -87,7 +87,15 @@ export default function MapView({ pantries, userLocation, onToggleView }: MapVie
 
   // Update markers when pantries or map changes
   useEffect(() => {
-    if (!map || !pantries.length) return;
+    if (!map) return;
+    
+    // Debug pantries
+    console.log("MapView pantries:", pantries);
+    
+    if (!pantries.length) {
+      console.log("No pantries to display on map");
+      return;
+    }
     
     // Clear previous markers
     markers.forEach(marker => marker.setMap(null));
