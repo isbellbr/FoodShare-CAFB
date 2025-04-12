@@ -7,10 +7,10 @@
     "longitude":-76.7007,
     "contactPhone":"(410) 947-6343",
     "contactEmail":"Thomas Hill",
-    "imageUrl":"",
-    "adminId":"Thomas Hill",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":24.1304575173,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -27,10 +27,10 @@
     "longitude":-76.6897,
     "contactPhone":"(410) 542-6200",
     "contactEmail":"Arlean Burton",
-    "imageUrl":"",
-    "adminId":"Arlean Burton",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.2323033978,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"11:00",
@@ -51,10 +51,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 728-2222",
     "contactEmail":"Rev. Robinson",
-    "imageUrl":"",
-    "adminId":"Rev. Robinson",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":26.0897837456,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"12:00",
@@ -75,10 +75,10 @@
     "longitude":-76.6334,
     "contactPhone":"(410) 523-5556",
     "contactEmail":"Jacqueline Johnson",
-    "imageUrl":"",
-    "adminId":"Jacqueline Johnson",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":27.4141496517,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"11:00",
@@ -95,10 +95,10 @@
     "longitude":-76.6932,
     "contactPhone":"(410) 448-1311",
     "contactEmail":"Liflie Ziegler",
-    "imageUrl":"",
-    "adminId":"Liflie Ziegler",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.036041877,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "thursday":{
         "open":"11:00",
@@ -115,10 +115,10 @@
     "longitude":-76.6562,
     "contactPhone":"(410) 539-5029",
     "contactEmail":"Sanra White",
-    "imageUrl":"",
-    "adminId":"Sanra White",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":24.744629358,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -151,10 +151,10 @@
     "longitude":-76.6219,
     "contactPhone":"(410) 235-0160",
     "contactEmail":"Charletta Williams",
-    "imageUrl":"",
-    "adminId":"Charletta Williams",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":28.4907070469,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "friday":{
         "open":"09:00",
@@ -175,10 +175,10 @@
     "longitude":-76.6278,
     "contactPhone":"(410) 752-6123",
     "contactEmail":"Verner Lewis",
-    "imageUrl":"",
-    "adminId":"Verner Lewis",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":26.6017026885,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "thursday":{
         "open":"10:00",
@@ -195,10 +195,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 233-8558",
     "contactEmail":"Rev. Matthew Braxton",
-    "imageUrl":"",
-    "adminId":"Rev. Matthew Braxton",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":25.8589477295,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "saturday":{
         "open":"12:00",
@@ -215,10 +215,10 @@
     "longitude":-76.6166,
     "contactPhone":"(410) 539-6155",
     "contactEmail":"Joan Weston",
-    "imageUrl":"",
-    "adminId":"Joan Weston",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.5046642611,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "friday":{
         "open":"10:00",
@@ -235,10 +235,10 @@
     "longitude":-76.6919,
     "contactPhone":"(410) 945-8700",
     "contactEmail":"Rev. Martin Jacobs",
-    "imageUrl":"",
-    "adminId":"Rev. Martin Jacobs",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":24.3762777707,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"12:00",
@@ -267,10 +267,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 728-0464",
     "contactEmail":"Barbara Grimes",
-    "imageUrl":"",
-    "adminId":"Barbara Grimes",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.0976379653,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "saturday":{
         "open":"10:00",
@@ -287,10 +287,10 @@
     "longitude":-76.5897,
     "contactPhone":"(410) 366-8010",
     "contactEmail":"James Gamble",
-    "imageUrl":"",
-    "adminId":"James Gamble",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":29.6606957153,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -311,10 +311,10 @@
     "longitude":-76.5671,
     "contactPhone":"(410) 485-4836",
     "contactEmail":"Anna Warren",
-    "imageUrl":"",
-    "adminId":"Anna Warren",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":29.3188862826,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -339,10 +339,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 342-6740",
     "contactEmail":"Gloria Etheridge",
-    "imageUrl":"",
-    "adminId":"Gloria Etheridge",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":28.90772923,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"12:00",
@@ -359,10 +359,10 @@
     "longitude":-76.6947,
     "contactPhone":"(410) 367-1117",
     "contactEmail":"Hazel Guin",
-    "imageUrl":"",
-    "adminId":"Hazel Guin",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.987603345,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"10:00",
@@ -379,10 +379,10 @@
     "longitude":-76.6335,
     "contactPhone":"(410) 523-5822",
     "contactEmail":"Mariano",
-    "imageUrl":"",
-    "adminId":"Mariano",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":27.6946642731,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "thursday":{
         "open":"13:30",
@@ -399,10 +399,10 @@
     "longitude":-76.6096,
     "contactPhone":"(410) 947-4536",
     "contactEmail":"Jerry Wallace",
-    "imageUrl":"",
-    "adminId":"Jerry Wallace",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":29.2882921392,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "thursday":{
         "open":"10:00",
@@ -423,10 +423,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 566-6658",
     "contactEmail":"Deinia",
-    "imageUrl":"",
-    "adminId":"Deinia",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.9028244415,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -443,10 +443,10 @@
     "longitude":-76.5901,
     "contactPhone":"(410) 662-9287",
     "contactEmail":"Ellen Bentley",
-    "imageUrl":"",
-    "adminId":"Ellen Bentley",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":29.3903647743,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"09:00",
@@ -463,10 +463,10 @@
     "longitude":-76.6654,
     "contactPhone":"(410) 233-6112",
     "contactEmail":"Hallie Rhames",
-    "imageUrl":"",
-    "adminId":"Hallie Rhames",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.3551862382,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"12:00",
@@ -487,10 +487,10 @@
     "longitude":-76.5671,
     "contactPhone":"(410) 327-0177",
     "contactEmail":"Welton Hunt",
-    "imageUrl":"",
-    "adminId":"Welton Hunt",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":28.4332124846,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"10:00",
@@ -511,10 +511,10 @@
     "longitude":-76.6347,
     "contactPhone":"(410) 523-7000",
     "contactEmail":"Leslie Wood",
-    "imageUrl":"",
-    "adminId":"Leslie Wood",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.1344749122,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"11:30",
@@ -531,10 +531,10 @@
     "longitude":-76.5944,
     "contactPhone":"(410) 327-1181",
     "contactEmail":"Beatrice Bridgefort",
-    "imageUrl":"",
-    "adminId":"Beatrice Bridgefort",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":27.6618956387,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"14:30",
@@ -551,10 +551,10 @@
     "longitude":-76.6046,
     "contactPhone":"(410) 732-0076",
     "contactEmail":"Rebecca Pugh",
-    "imageUrl":"",
-    "adminId":"Rebecca Pugh",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.7264037652,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "friday":{
         "open":"11:00",
@@ -579,10 +579,10 @@
     "longitude":-76.6284,
     "contactPhone":"(410) 523-6787",
     "contactEmail":"Bertha Creighton",
-    "imageUrl":"",
-    "adminId":"Bertha Creighton",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.7899125202,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"12:00",
@@ -603,10 +603,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 243-5625",
     "contactEmail":"Lucy Washington",
-    "imageUrl":"",
-    "adminId":"Lucy Washington",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":28.4722206661,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "thursday":{
         "open":"10:30",
@@ -627,10 +627,10 @@
     "longitude":-76.6174,
     "contactPhone":"(410) 467-5340",
     "contactEmail":"Brother Finbar",
-    "imageUrl":"",
-    "adminId":"Brother Finbar",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":28.2440107369,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -663,10 +663,10 @@
     "longitude":-76.6612,
     "contactPhone":"(410) 467-0113",
     "contactEmail":"Rev. Geraldine S. James",
-    "imageUrl":"",
-    "adminId":"Rev. Geraldine S. James",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.8220352416,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "thursday":{
         "open":"09:00",
@@ -683,10 +683,10 @@
     "longitude":-76.6654,
     "contactPhone":"(410) 299-9919",
     "contactEmail":"Lillian Royster",
-    "imageUrl":"",
-    "adminId":"Lillian Royster",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.4932804371,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"11:00",
@@ -711,10 +711,10 @@
     "longitude":-76.5897,
     "contactPhone":"(410) 563-2355",
     "contactEmail":"Rev. Irwin Pope",
-    "imageUrl":"",
-    "adminId":"Rev. Irwin Pope",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":28.5592963466,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"12:00",
@@ -731,10 +731,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 788-0547",
     "contactEmail":"Rev. Amos Burgess",
-    "imageUrl":"",
-    "adminId":"Rev. Amos Burgess",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.0897837456,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"13:00",
@@ -755,10 +755,10 @@
     "longitude":-76.6612,
     "contactPhone":"(410) 383-9171",
     "contactEmail":"Ethel Lee",
-    "imageUrl":"",
-    "adminId":"Ethel Lee",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":27.8220352416,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"10:00",
@@ -775,10 +775,10 @@
     "longitude":-76.6334,
     "contactPhone":"(410) 243-1997",
     "contactEmail":"Elizabeth Green",
-    "imageUrl":"",
-    "adminId":"Elizabeth Green",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":28.6941366166,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -799,10 +799,10 @@
     "longitude":-76.5671,
     "contactPhone":"(410) 426-4009",
     "contactEmail":"Jessie Martek",
-    "imageUrl":"",
-    "adminId":"Jessie Martek",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":31.3398616301,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -835,10 +835,10 @@
     "longitude":-76.6347,
     "contactPhone":"(410) 523-0143",
     "contactEmail":"Mary Coleman",
-    "imageUrl":"",
-    "adminId":"Mary Coleman",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.5898718768,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"10:00",
@@ -855,10 +855,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 462-6205",
     "contactEmail":"Juanita Leigh",
-    "imageUrl":"",
-    "adminId":"Juanita Leigh",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.8968610219,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"09:00",
@@ -875,10 +875,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 675-2125",
     "contactEmail":"Jacqueline Toppins",
-    "imageUrl":"",
-    "adminId":"Jacqueline Toppins",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":28.4998758747,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"08:30",
@@ -911,10 +911,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 728-7539",
     "contactEmail":"Gloria Johnson",
-    "imageUrl":"",
-    "adminId":"Gloria Johnson",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.2021117429,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"08:30",
@@ -947,10 +947,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 342-1310",
     "contactEmail":"Rosalie Branch",
-    "imageUrl":"",
-    "adminId":"Rosalie Branch",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":29.3620703412,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "saturday":{
         "open":"09:00",
@@ -967,10 +967,10 @@
     "longitude":-76.6818,
     "contactPhone":"(410) 396-7740",
     "contactEmail":"Rev. Helen Samuel",
-    "imageUrl":"",
-    "adminId":"Rev. Helen Samuel",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.3278216572,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -995,10 +995,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 243-4419",
     "contactEmail":"Shirley Dean",
-    "imageUrl":"",
-    "adminId":"Shirley Dean",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":29.3140431933,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"11:30",
@@ -1015,10 +1015,10 @@
     "longitude":-76.5516,
     "contactPhone":"(410) 485-5375",
     "contactEmail":"Rev. Harrison Geter",
-    "imageUrl":"",
-    "adminId":"Rev. Harrison Geter",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":31.4132941022,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "saturday":{
         "open":"12:00",
@@ -1035,10 +1035,10 @@
     "longitude":-76.6347,
     "contactPhone":"(410) 396-0893",
     "contactEmail":"Josephine Battaglia",
-    "imageUrl":"",
-    "adminId":"Josephine Battaglia",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":26.864366222,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"09:00",
@@ -1061,16 +1061,16 @@
   },
   {
     "name":"Israel Baptist Outreach",
-    "description":"Different hours Wed\/Fri",
+    "description":"Different hours Wed/Fri",
     "address":"1211 N. Chester St.",
     "latitude":39.3046,
     "longitude":-76.5826,
     "contactPhone":"(410) 732-3494",
     "contactEmail":"Shirley Eaddy",
-    "imageUrl":"",
-    "adminId":"Shirley Eaddy",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":28.90772923,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"11:00",
@@ -1093,7 +1093,7 @@
         "close":"19:00"
       }
     },
-    "specialNotes":"Different hours Wed\/Fri"
+    "specialNotes":"Different hours Wed/Fri"
   },
   {
     "name":"JB Outreach Ministries",
@@ -1103,10 +1103,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 644-5822",
     "contactEmail":"James Bivens",
-    "imageUrl":"",
-    "adminId":"James Bivens",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.0897837456,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "thursday":{
         "open":"10:00",
@@ -1123,10 +1123,10 @@
     "longitude":-76.6654,
     "contactPhone":"(410) 362-1911",
     "contactEmail":"Barbara Davis",
-    "imageUrl":"",
-    "adminId":"Barbara Davis",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.3551862382,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"12:00",
@@ -1155,10 +1155,10 @@
     "longitude":-76.6046,
     "contactPhone":"(410) 685-5950",
     "contactEmail":"Margaret Hawkes",
-    "imageUrl":"",
-    "adminId":"Margaret Hawkes",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.9964952692,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"13:00",
@@ -1191,10 +1191,10 @@
     "longitude":-76.6654,
     "contactPhone":"(410) 233-6238",
     "contactEmail":"Susan Crane",
-    "imageUrl":"",
-    "adminId":"Susan Crane",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":26.1830211523,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"07:00",
@@ -1211,10 +1211,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 466-5729",
     "contactEmail":"Pastor Morton",
-    "imageUrl":"",
-    "adminId":"Pastor Morton",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.700263287,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"10:00",
@@ -1235,10 +1235,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 728-5515",
     "contactEmail":"Rosalie",
-    "imageUrl":"",
-    "adminId":"Rosalie",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":27.035376422,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"13:00",
@@ -1263,10 +1263,10 @@
     "longitude":-76.6316,
     "contactPhone":"(410) 396-0936",
     "contactEmail":"Lorraine Ledbetter",
-    "imageUrl":"",
-    "adminId":"Lorraine Ledbetter",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.5183494755,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "tuesday":{
         "open":"09:00",
@@ -1295,10 +1295,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 362-2232",
     "contactEmail":"Bettie Williams",
-    "imageUrl":"",
-    "adminId":"Bettie Williams",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.1287088246,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"11:00",
@@ -1315,10 +1315,10 @@
     "longitude":-76.6347,
     "contactPhone":"(410) 669-5776",
     "contactEmail":"Gladys Augustus",
-    "imageUrl":"",
-    "adminId":"Gladys Augustus",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.9964715218,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"10:00",
@@ -1335,10 +1335,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 675-2267",
     "contactEmail":"Bertha Bell",
-    "imageUrl":"",
-    "adminId":"Bertha Bell",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":28.9700790514,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "thursday":{
         "open":"10:00",
@@ -1355,10 +1355,10 @@
     "longitude":-76.6818,
     "contactPhone":"(410) 367-2768",
     "contactEmail":"Ethel Lee",
-    "imageUrl":"",
-    "adminId":"Ethel Lee",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":27.8549805968,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"12:00",
@@ -1391,10 +1391,10 @@
     "longitude":-76.6562,
     "contactPhone":"(410) 947-4466",
     "contactEmail":"Mary Curtis",
-    "imageUrl":"",
-    "adminId":"Mary Curtis",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.3282789675,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"09:00",
@@ -1411,10 +1411,10 @@
     "longitude":-76.5516,
     "contactPhone":"(410) 633-5516",
     "contactEmail":"Grace Weber",
-    "imageUrl":"",
-    "adminId":"Grace Weber",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":29.1990754646,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "saturday":{
         "open":"09:00",
@@ -1431,10 +1431,10 @@
     "longitude":-76.6654,
     "contactPhone":"(410) 945-3575",
     "contactEmail":"Wilhelmina Davis",
-    "imageUrl":"",
-    "adminId":"Wilhelmina Davis",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.4932804371,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"08:30",
@@ -1451,10 +1451,10 @@
     "longitude":-76.5516,
     "contactPhone":"(410) 325-3080",
     "contactEmail":"Aretha Allen",
-    "imageUrl":"",
-    "adminId":"Aretha Allen",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":31.8724806416,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -1479,10 +1479,10 @@
     "longitude":-76.5897,
     "contactPhone":"(410) 327-1740",
     "contactEmail":"Rev. Forrest",
-    "imageUrl":"",
-    "adminId":"Rev. Forrest",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":28.8003264356,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"10:00",
@@ -1499,10 +1499,10 @@
     "longitude":-76.6818,
     "contactPhone":"(410) 367-5766",
     "contactEmail":"Ann Quarles",
-    "imageUrl":"",
-    "adminId":"Ann Quarles",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.8549805968,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"09:00",
@@ -1519,10 +1519,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 840-3363",
     "contactEmail":"Rev. Dykes",
-    "imageUrl":"",
-    "adminId":"Rev. Dykes",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.700263287,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "sunday":{
         "open":"08:00",
@@ -1539,10 +1539,10 @@
     "longitude":-76.5361,
     "contactPhone":"(410) 282-2219",
     "contactEmail":"Cynthia",
-    "imageUrl":"",
-    "adminId":"Cynthia",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":30.8567242024,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -1575,10 +1575,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 675-2178",
     "contactEmail":"Rev. Williams",
-    "imageUrl":"",
-    "adminId":"Rev. Williams",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":29.3200712636,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -1611,10 +1611,10 @@
     "longitude":-76.6347,
     "contactPhone":"(410) 466-7306",
     "contactEmail":"Rita Yarborough",
-    "imageUrl":"",
-    "adminId":"Rita Yarborough",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.9964715218,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "thursday":{
         "open":"11:00",
@@ -1631,10 +1631,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 523-9082",
     "contactEmail":"Peggy Mitchell",
-    "imageUrl":"",
-    "adminId":"Peggy Mitchell",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.5438218626,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"10:00",
@@ -1663,10 +1663,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 523-5306",
     "contactEmail":"Sue Wilson",
-    "imageUrl":"",
-    "adminId":"Sue Wilson",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":27.1201392926,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"13:00",
@@ -1683,10 +1683,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 558-0950",
     "contactEmail":"Pastor Barnes",
-    "imageUrl":"",
-    "adminId":"Pastor Barnes",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":29.3200712636,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "friday":{
         "open":"10:00",
@@ -1707,10 +1707,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 433-2442",
     "contactEmail":"Barbara Metz",
-    "imageUrl":"",
-    "adminId":"Barbara Metz",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":29.9742216801,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -1731,10 +1731,10 @@
     "longitude":-76.6932,
     "contactPhone":"(410) 466-9267",
     "contactEmail":"Kimberly White",
-    "imageUrl":"",
-    "adminId":"Kimberly White",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.4547543953,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "friday":{
         "open":"14:00",
@@ -1751,10 +1751,10 @@
     "longitude":-76.6818,
     "contactPhone":"(410) 578-1800",
     "contactEmail":"Shirley Oliver",
-    "imageUrl":"",
-    "adminId":"Shirley Oliver",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.8549805968,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -1787,10 +1787,10 @@
     "longitude":-76.6316,
     "contactPhone":"(410) 625-0775",
     "contactEmail":"Bill McLiman",
-    "imageUrl":"",
-    "adminId":"Bill McLiman",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.8250135608,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"08:30",
@@ -1823,10 +1823,10 @@
     "longitude":-76.6316,
     "contactPhone":"(410) 462-3800",
     "contactEmail":"Margaret Solomon",
-    "imageUrl":"",
-    "adminId":"Margaret Solomon",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.3997428504,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -1855,10 +1855,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 945-7923",
     "contactEmail":"Coretha Jones",
-    "imageUrl":"",
-    "adminId":"Coretha Jones",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":26.3140524678,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "saturday":{
         "open":"09:00",
@@ -1875,10 +1875,10 @@
     "longitude":-76.6562,
     "contactPhone":"(410) 945-0445",
     "contactEmail":"Edythe Gregory",
-    "imageUrl":"",
-    "adminId":"Edythe Gregory",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.8185789616,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"14:00",
@@ -1911,10 +1911,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 243-1141",
     "contactEmail":"Lonnie Perry",
-    "imageUrl":"",
-    "adminId":"Lonnie Perry",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":28.7657290262,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -1951,10 +1951,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 728-8782",
     "contactEmail":"Rose Long",
-    "imageUrl":"",
-    "adminId":"Rose Long",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":26.9466810327,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"14:30",
@@ -1975,10 +1975,10 @@
     "longitude":-76.6819,
     "contactPhone":"(410) 646-1462",
     "contactEmail":"Charlotte",
-    "imageUrl":"",
-    "adminId":"Charlotte",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":24.5325764834,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -1999,10 +1999,10 @@
     "longitude":-76.6046,
     "contactPhone":"(410) 396-9006",
     "contactEmail":"Darrel Roaster",
-    "imageUrl":"",
-    "adminId":"Darrel Roaster",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":27.4372209206,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "friday":{
         "open":"10:00",
@@ -2019,10 +2019,10 @@
     "longitude":-76.6316,
     "contactPhone":"(410) 532-1517",
     "contactEmail":"Jackie Brown",
-    "imageUrl":"",
-    "adminId":"Jackie Brown",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.3776503776,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"11:00",
@@ -2055,10 +2055,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 662-0359",
     "contactEmail":"Michael Brown",
-    "imageUrl":"",
-    "adminId":"Michael Brown",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":28.7657290262,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"10:00",
@@ -2075,10 +2075,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 235-3972",
     "contactEmail":"Ismenda Hendrix",
-    "imageUrl":"",
-    "adminId":"Ismenda Hendrix",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":29.6467035029,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -2099,10 +2099,10 @@
     "longitude":-76.5205,
     "contactPhone":"(410) 661-9428",
     "contactEmail":"George Crutchfield",
-    "imageUrl":"",
-    "adminId":"George Crutchfield",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":32.978287622,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"10:00",
@@ -2119,10 +2119,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 435-8339",
     "contactEmail":"Frances Wellborn",
-    "imageUrl":"",
-    "adminId":"Frances Wellborn",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":29.9742216801,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"12:00",
@@ -2139,10 +2139,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 566-2940",
     "contactEmail":"Al Lawson",
-    "imageUrl":"",
-    "adminId":"Al Lawson",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.1186741813,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "tuesday":{
         "open":"11:00",
@@ -2163,10 +2163,10 @@
     "longitude":-76.6121,
     "contactPhone":"(410) 787-2920",
     "contactEmail":"Crystal White",
-    "imageUrl":"",
-    "adminId":"Crystal White",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.5014024539,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"08:30",
@@ -2199,10 +2199,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 669-6667",
     "contactEmail":"Elaine Brown Page",
-    "imageUrl":"",
-    "adminId":"Elaine Brown Page",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.8339662534,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"10:00",
@@ -2219,10 +2219,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 366-1025",
     "contactEmail":"Wanda Hudson",
-    "imageUrl":"",
-    "adminId":"Wanda Hudson",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":29.1489122705,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"11:00",
@@ -2247,10 +2247,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 566-2105",
     "contactEmail":"Rev. Thomas Sledge",
-    "imageUrl":"",
-    "adminId":"Rev. Thomas Sledge",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":26.9852744768,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -2283,10 +2283,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 396-1740",
     "contactEmail":"Eugene Holt",
-    "imageUrl":"",
-    "adminId":"Eugene Holt",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":25.9028244415,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"09:00",
@@ -2311,10 +2311,10 @@
     "longitude":-76.6121,
     "contactPhone":"(410) 752-1336",
     "contactEmail":"Elizabeth Baer",
-    "imageUrl":"",
-    "adminId":"Elizabeth Baer",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.5014024539,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -2347,10 +2347,10 @@
     "longitude":-76.5671,
     "contactPhone":"(410) 545-6515",
     "contactEmail":"Carrene Bullard",
-    "imageUrl":"",
-    "adminId":"Carrene Bullard",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":28.6162987488,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -2375,10 +2375,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 383-6919",
     "contactEmail":"Rev. Clarence Yerby",
-    "imageUrl":"",
-    "adminId":"Rev. Clarence Yerby",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":27.3358994345,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"09:30",
@@ -2395,10 +2395,10 @@
     "longitude":-76.6818,
     "contactPhone":"(410) 225-0870",
     "contactEmail":"Inez",
-    "imageUrl":"",
-    "adminId":"Inez",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":27.3278216572,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"09:00",
@@ -2431,10 +2431,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 235-8169",
     "contactEmail":"Sister Jean",
-    "imageUrl":"",
-    "adminId":"Sister Jean",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":28.5807109965,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"08:00",
@@ -2455,10 +2455,10 @@
     "longitude":-76.6819,
     "contactPhone":"(410) 362-8664",
     "contactEmail":"Deacon Phil",
-    "imageUrl":"",
-    "adminId":"Deacon Phil",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":25.0385620121,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"10:00",
@@ -2483,10 +2483,10 @@
     "longitude":-76.6689,
     "contactPhone":"(410) 624-3600",
     "contactEmail":"Robert Viner",
-    "imageUrl":"",
-    "adminId":"Robert Viner",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.390425636,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"10:00",
@@ -2503,10 +2503,10 @@
     "longitude":-76.5671,
     "contactPhone":"(410) 675-8260",
     "contactEmail":"Lucy D'Pinto",
-    "imageUrl":"",
-    "adminId":"Lucy D'Pinto",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":28.6560310366,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "tuesday":{
         "open":"11:30",
@@ -2527,10 +2527,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 523-0061",
     "contactEmail":"Gloria Williams",
-    "imageUrl":"",
-    "adminId":"Gloria Williams",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":26.9011597034,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -2563,10 +2563,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 225-9409",
     "contactEmail":"Edna Evans",
-    "imageUrl":"",
-    "adminId":"Edna Evans",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zsaofQv-7jZtKg_bql4jNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.85551&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.9852744768,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"17:00",
@@ -2580,17 +2580,17 @@
     "specialNotes":"Different hours for Tue and Fri"
   },
   {
-    "name":"St. Mark's UMC\/Bread of Life",
+    "name":"St. Mark's UMC/Bread of Life",
     "description":"",
     "address":"3900 Liberty Heights Ave.",
     "latitude":39.3318,
     "longitude":-76.6819,
     "contactPhone":"(410) 542-5338",
     "contactEmail":"Richard Wright",
-    "imageUrl":"",
-    "adminId":"Richard Wright",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":27.3251333739,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "wednesday":{
         "open":"17:30",
@@ -2611,10 +2611,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 732-2176",
     "contactEmail":"Lisa Knickmeyer",
-    "imageUrl":"",
-    "adminId":"Lisa Knickmeyer",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipNpqTcO0Pdm0SpiOtUmuNxtOxOuD4yiQ_67vqx5=w408-h272-k-no",
+    "adminId":1,
     "walkingDistance":28.2186810452,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"09:00",
@@ -2639,10 +2639,10 @@
     "longitude":-76.6088,
     "contactPhone":"(410) 366-0096",
     "contactEmail":"Thelma Gentry",
-    "imageUrl":"",
-    "adminId":"Thelma Gentry",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":29.1489122705,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "monday":{
         "open":"10:00",
@@ -2663,10 +2663,10 @@
     "longitude":-76.6046,
     "contactPhone":"(410) 962-5078",
     "contactEmail":"Jeanne Cole",
-    "imageUrl":"",
-    "adminId":"Jeanne Cole",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":27.4372209206,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "monday":{
         "open":"12:30",
@@ -2683,10 +2683,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 675-3320",
     "contactEmail":"Audrey Wasson",
-    "imageUrl":"",
-    "adminId":"Audrey Wasson",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RWLR5m6C-aSu7qXffabUHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=322.68747&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":28.762650177,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "wednesday":{
         "open":"11:00",
@@ -2707,10 +2707,10 @@
     "longitude":-76.6378,
     "contactPhone":"(410) 462-1876",
     "contactEmail":"Stanley Butler",
-    "imageUrl":"",
-    "adminId":"Stanley Butler",
+    "imageUrl":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CeP-eMRMV1rOswttLcO1Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.409517&pitch=0&thumbfov=100",
+    "adminId":1,
     "walkingDistance":26.7642606299,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "tuesday":{
         "open":"10:00",
@@ -2731,10 +2731,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 542-1928",
     "contactEmail":"Lassiter Basket",
-    "imageUrl":"",
-    "adminId":"Lassiter Basket",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.2388007579,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "tuesday":{
         "open":"15:00",
@@ -2751,10 +2751,10 @@
     "longitude":-76.6447,
     "contactPhone":"(410) 728-8151",
     "contactEmail":"Willie Williams",
-    "imageUrl":"",
-    "adminId":"Willie Williams",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":26.7277571719,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "saturday":{
         "open":"10:00",
@@ -2771,10 +2771,10 @@
     "longitude":-76.5826,
     "contactPhone":"(410) 342-2320",
     "contactEmail":"Nancy Woodhouse",
-    "imageUrl":"",
-    "adminId":"Nancy Woodhouse",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipOgEUYt0SW_ux03yG2RLgtHjYi32kz_8tuVpSwN=w408-h306-k-no",
+    "adminId":1,
     "walkingDistance":29.3200712636,
-    "offersDelivery":"",
+    "offersDelivery":false,
     "openingHours":{
       "thursday":{
         "open":"11:00",
@@ -2791,10 +2791,10 @@
     "longitude":-76.6819,
     "contactPhone":"(410) 448-1215",
     "contactEmail":"Elizabeth Milburn",
-    "imageUrl":"",
-    "adminId":"Elizabeth Milburn",
+    "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
+    "adminId":1,
     "walkingDistance":27.3251333739,
-    "offersDelivery":"",
+    "offersDelivery":true,
     "openingHours":{
       "sunday":{
         "open":"09:30",
