@@ -1,0 +1,2806 @@
+[
+  {
+    "name":"Abundant Life II",
+    "description":"",
+    "address":"5110 Balto Natt Pike apt 4",
+    "latitude":39.2866,
+    "longitude":-76.7007,
+    "contactPhone":"(410) 947-6343",
+    "contactEmail":"Thomas Hill",
+    "imageUrl":"",
+    "adminId":"Thomas Hill",
+    "walkingDistance":24.1304575173,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Adams Chapel AME",
+    "description":"",
+    "address":"3813 Egerton Rd.",
+    "latitude":39.3337,
+    "longitude":-76.6897,
+    "contactPhone":"(410) 542-6200",
+    "contactEmail":"Arlean Burton",
+    "imageUrl":"",
+    "adminId":"Arlean Burton",
+    "walkingDistance":27.2323033978,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"11:00",
+        "close":"13:00"
+      },
+      "saturday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Agape House",
+    "description":"",
+    "address":"222 N. Carrollton Ave.",
+    "latitude":39.2912,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 728-2222",
+    "contactEmail":"Rev. Robinson",
+    "imageUrl":"",
+    "adminId":"Rev. Robinson",
+    "walkingDistance":26.0897837456,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"12:00",
+        "close":"18:00"
+      },
+      "saturday":{
+        "open":"12:00",
+        "close":"18:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"AMES Memorial AME",
+    "description":"",
+    "address":"615 Baker St.",
+    "latitude":39.3086,
+    "longitude":-76.6334,
+    "contactPhone":"(410) 523-5556",
+    "contactEmail":"Jacqueline Johnson",
+    "imageUrl":"",
+    "adminId":"Jacqueline Johnson",
+    "walkingDistance":27.4141496517,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Bernard E. Mason",
+    "description":"",
+    "address":"2121 Windsor Gardens",
+    "latitude":39.3153,
+    "longitude":-76.6932,
+    "contactPhone":"(410) 448-1311",
+    "contactEmail":"Liflie Ziegler",
+    "imageUrl":"",
+    "adminId":"Liflie Ziegler",
+    "walkingDistance":26.036041877,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"11:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Bethany Baptist Church",
+    "description":"",
+    "address":"2616 Ridgeley St.",
+    "latitude":39.2735,
+    "longitude":-76.6562,
+    "contactPhone":"(410) 539-5029",
+    "contactEmail":"Sanra White",
+    "imageUrl":"",
+    "adminId":"Sanra White",
+    "walkingDistance":24.744629358,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "tuesday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Bethel Church of God",
+    "description":"",
+    "address":"301 W. 28th Street",
+    "latitude":39.3214,
+    "longitude":-76.6219,
+    "contactPhone":"(410) 235-0160",
+    "contactEmail":"Charletta Williams",
+    "imageUrl":"",
+    "adminId":"Charletta Williams",
+    "walkingDistance":28.4907070469,
+    "offersDelivery":"",
+    "openingHours":{
+      "friday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "sunday":{
+        "open":"09:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Carter Memorial Emergency",
+    "description":"",
+    "address":"745 West Fayette St.",
+    "latitude":39.2904,
+    "longitude":-76.6278,
+    "contactPhone":"(410) 752-6123",
+    "contactEmail":"Verner Lewis",
+    "imageUrl":"",
+    "adminId":"Verner Lewis",
+    "walkingDistance":26.6017026885,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Central Baptist Church",
+    "description":"",
+    "address":"2035 West Baltimore St",
+    "latitude":39.287,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 233-8558",
+    "contactEmail":"Rev. Matthew Braxton",
+    "imageUrl":"",
+    "adminId":"Rev. Matthew Braxton",
+    "walkingDistance":25.8589477295,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"12:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Chase House",
+    "description":"",
+    "address":"1027 Cathedral St",
+    "latitude":39.3002,
+    "longitude":-76.6166,
+    "contactPhone":"(410) 539-6155",
+    "contactEmail":"Joan Weston",
+    "imageUrl":"",
+    "adminId":"Joan Weston",
+    "walkingDistance":27.5046642611,
+    "offersDelivery":"",
+    "openingHours":{
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Christ Deliverance Church",
+    "description":"",
+    "address":"711 Walnut Ave.",
+    "latitude":39.2865,
+    "longitude":-76.6919,
+    "contactPhone":"(410) 945-8700",
+    "contactEmail":"Rev. Martin Jacobs",
+    "imageUrl":"",
+    "adminId":"Rev. Martin Jacobs",
+    "walkingDistance":24.3762777707,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"12:00",
+        "close":"18:00"
+      },
+      "wednesday":{
+        "open":"12:00",
+        "close":"18:00"
+      },
+      "friday":{
+        "open":"12:00",
+        "close":"18:00"
+      },
+      "saturday":{
+        "open":"12:00",
+        "close":"18:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Christian Memorial Church",
+    "description":"",
+    "address":"2001 West North Ave.",
+    "latitude":39.3093,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 728-0464",
+    "contactEmail":"Barbara Grimes",
+    "imageUrl":"",
+    "adminId":"Barbara Grimes",
+    "walkingDistance":27.0976379653,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Church Of Jesus Christ",
+    "description":"",
+    "address":"2880 Hillen Road",
+    "latitude":39.3235,
+    "longitude":-76.5897,
+    "contactPhone":"(410) 366-8010",
+    "contactEmail":"James Gamble",
+    "imageUrl":"",
+    "adminId":"James Gamble",
+    "walkingDistance":29.6606957153,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Claremont Homes",
+    "description":"",
+    "address":"4312 Clareway",
+    "latitude":39.3018,
+    "longitude":-76.5671,
+    "contactPhone":"(410) 485-4836",
+    "contactEmail":"Anna Warren",
+    "imageUrl":"",
+    "adminId":"Anna Warren",
+    "walkingDistance":29.3188862826,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Collington Square",
+    "description":"",
+    "address":"1211 N. Chester St",
+    "latitude":39.3046,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 342-6740",
+    "contactEmail":"Gloria Etheridge",
+    "imageUrl":"",
+    "adminId":"Gloria Etheridge",
+    "walkingDistance":28.90772923,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"12:00",
+        "close":"04:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Concord Baptist Church",
+    "description":"4th Saturday only",
+    "address":"5204 Liberty Heights Ave.",
+    "latitude":39.3318,
+    "longitude":-76.6947,
+    "contactPhone":"(410) 367-1117",
+    "contactEmail":"Hazel Guin",
+    "imageUrl":"",
+    "adminId":"Hazel Guin",
+    "walkingDistance":26.987603345,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"10:00",
+        "close":"11:30"
+      }
+    },
+    "specialNotes":"4th Saturday only"
+  },
+  {
+    "name":"Corpus Christi",
+    "description":"",
+    "address":"703 Whitelock St.",
+    "latitude":39.3137,
+    "longitude":-76.6335,
+    "contactPhone":"(410) 523-5822",
+    "contactEmail":"Mariano",
+    "imageUrl":"",
+    "adminId":"Mariano",
+    "walkingDistance":27.6946642731,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"13:30",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Deliverance Manna",
+    "description":"",
+    "address":"3538 Old York Road",
+    "latitude":39.3287,
+    "longitude":-76.6096,
+    "contactPhone":"(410) 947-4536",
+    "contactEmail":"Jerry Wallace",
+    "imageUrl":"",
+    "adminId":"Jerry Wallace",
+    "walkingDistance":29.2882921392,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"10:00",
+        "close":"20:00"
+      },
+      "saturday":{
+        "open":"10:00",
+        "close":"20:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Dept of Housing Neighborhood",
+    "description":"",
+    "address":"22 S. Calhoun",
+    "latitude":39.2878,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 566-6658",
+    "contactEmail":"Deinia",
+    "imageUrl":"",
+    "adminId":"Deinia",
+    "walkingDistance":25.9028244415,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Donald Bentley Food Pantry",
+    "description":"",
+    "address":"2405 Loch Raven Blvd.",
+    "latitude":39.3187,
+    "longitude":-76.5901,
+    "contactPhone":"(410) 662-9287",
+    "contactEmail":"Ellen Bentley",
+    "imageUrl":"",
+    "adminId":"Ellen Bentley",
+    "walkingDistance":29.3903647743,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"09:00",
+        "close":"12:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Dukeland Development",
+    "description":"",
+    "address":"1601 Gertrude St.",
+    "latitude":39.3073,
+    "longitude":-76.6654,
+    "contactPhone":"(410) 233-6112",
+    "contactEmail":"Hallie Rhames",
+    "imageUrl":"",
+    "adminId":"Hallie Rhames",
+    "walkingDistance":26.3551862382,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"12:00",
+        "close":"20:00"
+      },
+      "friday":{
+        "open":"12:00",
+        "close":"20:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"East Baltimore Church of God",
+    "description":"",
+    "address":"800 South Oldham St",
+    "latitude":39.2841,
+    "longitude":-76.5671,
+    "contactPhone":"(410) 327-0177",
+    "contactEmail":"Welton Hunt",
+    "imageUrl":"",
+    "adminId":"Welton Hunt",
+    "walkingDistance":28.4332124846,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"10:00",
+        "close":"15:00"
+      },
+      "sunday":{
+        "open":"10:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Emergency Food Relief Fund",
+    "description":"",
+    "address":"1401 Pennsylvania Ave.",
+    "latitude":39.3043,
+    "longitude":-76.6347,
+    "contactPhone":"(410) 523-7000",
+    "contactEmail":"Leslie Wood",
+    "imageUrl":"",
+    "adminId":"Leslie Wood",
+    "walkingDistance":27.1344749122,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"11:30",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"First Apostolic Faith Church",
+    "description":"",
+    "address":"27 S. Caroline St.",
+    "latitude":39.2886,
+    "longitude":-76.5944,
+    "contactPhone":"(410) 327-1181",
+    "contactEmail":"Beatrice Bridgefort",
+    "imageUrl":"",
+    "adminId":"Beatrice Bridgefort",
+    "walkingDistance":27.6618956387,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"14:30",
+        "close":"16:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"First Charity Baptist Church",
+    "description":"",
+    "address":"611 N. Aisquith St",
+    "latitude":39.2967,
+    "longitude":-76.6046,
+    "contactPhone":"(410) 732-0076",
+    "contactEmail":"Rebecca Pugh",
+    "imageUrl":"",
+    "adminId":"Rebecca Pugh",
+    "walkingDistance":27.7264037652,
+    "offersDelivery":"",
+    "openingHours":{
+      "friday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "saturday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "sunday":{
+        "open":"11:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"First Emmanuel Baptist Church",
+    "description":"",
+    "address":"2209 Park Ave",
+    "latitude":39.3125,
+    "longitude":-76.6284,
+    "contactPhone":"(410) 523-6787",
+    "contactEmail":"Bertha Creighton",
+    "imageUrl":"",
+    "adminId":"Bertha Creighton",
+    "walkingDistance":27.7899125202,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"12:00",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"12:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"First Philadelphia Baptist",
+    "description":"",
+    "address":"2120 Greenmount Ave.",
+    "latitude":39.3133,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 243-5625",
+    "contactEmail":"Lucy Washington",
+    "imageUrl":"",
+    "adminId":"Lucy Washington",
+    "walkingDistance":28.4722206661,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"10:30",
+        "close":"12:30"
+      },
+      "friday":{
+        "open":"10:30",
+        "close":"12:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Franciscan Center, Inc.",
+    "description":"",
+    "address":"2212 Maryland Ave.",
+    "latitude":39.3143,
+    "longitude":-76.6174,
+    "contactPhone":"(410) 467-5340",
+    "contactEmail":"Brother Finbar",
+    "imageUrl":"",
+    "adminId":"Brother Finbar",
+    "walkingDistance":28.2440107369,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Gospel Messenger",
+    "description":"",
+    "address":"2610 Keyworth Ave.",
+    "latitude":39.3305,
+    "longitude":-76.6612,
+    "contactPhone":"(410) 467-0113",
+    "contactEmail":"Rev. Geraldine S. James",
+    "imageUrl":"",
+    "adminId":"Rev. Geraldine S. James",
+    "walkingDistance":27.8220352416,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"09:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Gospel Tabernacle",
+    "description":"",
+    "address":"3100 Walbrook Ave.",
+    "latitude":39.3097,
+    "longitude":-76.6654,
+    "contactPhone":"(410) 299-9919",
+    "contactEmail":"Lillian Royster",
+    "imageUrl":"",
+    "adminId":"Lillian Royster",
+    "walkingDistance":26.4932804371,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "friday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "sunday":{
+        "open":"11:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Grace Memorial",
+    "description":"",
+    "address":"1100 N. Eden St",
+    "latitude":39.3027,
+    "longitude":-76.5897,
+    "contactPhone":"(410) 563-2355",
+    "contactEmail":"Rev. Irwin Pope",
+    "imageUrl":"",
+    "adminId":"Rev. Irwin Pope",
+    "walkingDistance":28.5592963466,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"12:00",
+        "close":"13:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Greater Zion Church",
+    "description":"",
+    "address":"301 No. Gilmore Ave.",
+    "latitude":39.2912,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 788-0547",
+    "contactEmail":"Rev. Amos Burgess",
+    "imageUrl":"",
+    "adminId":"Rev. Amos Burgess",
+    "walkingDistance":26.0897837456,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"13:00",
+        "close":"16:00"
+      },
+      "friday":{
+        "open":"13:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Greenhill Apts.",
+    "description":"",
+    "address":"2501 Violet Ave, #710 N.",
+    "latitude":39.3305,
+    "longitude":-76.6612,
+    "contactPhone":"(410) 383-9171",
+    "contactEmail":"Ethel Lee",
+    "imageUrl":"",
+    "adminId":"Ethel Lee",
+    "walkingDistance":27.8220352416,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Hampden UMC",
+    "description":"",
+    "address":"3449 Falls Rd.",
+    "latitude":39.3314,
+    "longitude":-76.6334,
+    "contactPhone":"(410) 243-1997",
+    "contactEmail":"Elizabeth Green",
+    "imageUrl":"",
+    "adminId":"Elizabeth Green",
+    "walkingDistance":28.6941366166,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Harford Senior Center",
+    "description":"",
+    "address":"4920 Harford Rd.",
+    "latitude":39.3406,
+    "longitude":-76.5671,
+    "contactPhone":"(410) 426-4009",
+    "contactEmail":"Jessie Martek",
+    "imageUrl":"",
+    "adminId":"Jessie Martek",
+    "walkingDistance":31.3398616301,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Harvest Christian",
+    "description":"",
+    "address":"2601 Pennsylvania Ave.",
+    "latitude":39.3125,
+    "longitude":-76.6347,
+    "contactPhone":"(410) 523-0143",
+    "contactEmail":"Mary Coleman",
+    "imageUrl":"",
+    "adminId":"Mary Coleman",
+    "walkingDistance":27.5898718768,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Harvey Johnson Towers",
+    "description":"",
+    "address":"1510 WE. Mosher St.",
+    "latitude":39.3018,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 462-6205",
+    "contactEmail":"Juanita Leigh",
+    "imageUrl":"",
+    "adminId":"Juanita Leigh",
+    "walkingDistance":26.8968610219,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"09:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Healthy Start",
+    "description":"",
+    "address":"610 N. Chester St.",
+    "latitude":39.2967,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 675-2125",
+    "contactEmail":"Jacqueline Toppins",
+    "imageUrl":"",
+    "adminId":"Jacqueline Toppins",
+    "walkingDistance":28.4998758747,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "tuesday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "wednesday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "thursday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "friday":{
+        "open":"08:30",
+        "close":"16:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Healthy Start",
+    "description":"",
+    "address":"1622 N. Carey St.",
+    "latitude":39.3073,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 728-7539",
+    "contactEmail":"Gloria Johnson",
+    "imageUrl":"",
+    "adminId":"Gloria Johnson",
+    "walkingDistance":27.2021117429,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "tuesday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "wednesday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "thursday":{
+        "open":"08:30",
+        "close":"16:30"
+      },
+      "friday":{
+        "open":"08:30",
+        "close":"16:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Helping Hands Food Pantry",
+    "description":"",
+    "address":"1911 Belair Rd.",
+    "latitude":39.3133,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 342-1310",
+    "contactEmail":"Rosalie Branch",
+    "imageUrl":"",
+    "adminId":"Rosalie Branch",
+    "walkingDistance":29.3620703412,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"09:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Hills Memorial",
+    "description":"",
+    "address":"3939 Reisterstown Rd.",
+    "latitude":39.3318,
+    "longitude":-76.6818,
+    "contactPhone":"(410) 396-7740",
+    "contactEmail":"Rev. Helen Samuel",
+    "imageUrl":"",
+    "adminId":"Rev. Helen Samuel",
+    "walkingDistance":27.3278216572,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"13:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"13:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Homestead UMC",
+    "description":"",
+    "address":"1500 Gorsuch Ave.",
+    "latitude":39.3287,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 243-4419",
+    "contactEmail":"Shirley Dean",
+    "imageUrl":"",
+    "adminId":"Shirley Dean",
+    "walkingDistance":29.3140431933,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"11:30",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Household of Faith Missionary",
+    "description":"",
+    "address":"4811 Belair Rd.",
+    "latitude":39.3318,
+    "longitude":-76.5516,
+    "contactPhone":"(410) 485-5375",
+    "contactEmail":"Rev. Harrison Geter",
+    "imageUrl":"",
+    "adminId":"Rev. Harrison Geter",
+    "walkingDistance":31.4132941022,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"12:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Human Services Division-4th",
+    "description":"",
+    "address":"1133 Pennsylvania Ave.",
+    "latitude":39.2994,
+    "longitude":-76.6347,
+    "contactPhone":"(410) 396-0893",
+    "contactEmail":"Josephine Battaglia",
+    "imageUrl":"",
+    "adminId":"Josephine Battaglia",
+    "walkingDistance":26.864366222,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Israel Baptist Outreach",
+    "description":"Different hours Wed\/Fri",
+    "address":"1211 N. Chester St.",
+    "latitude":39.3046,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 732-3494",
+    "contactEmail":"Shirley Eaddy",
+    "imageUrl":"",
+    "adminId":"Shirley Eaddy",
+    "walkingDistance":28.90772923,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"11:00",
+        "close":"19:00"
+      },
+      "tuesday":{
+        "open":"11:00",
+        "close":"19:00"
+      },
+      "wednesday":{
+        "open":"11:00",
+        "close":"19:00"
+      },
+      "thursday":{
+        "open":"11:00",
+        "close":"19:00"
+      },
+      "friday":{
+        "open":"11:00",
+        "close":"19:00"
+      }
+    },
+    "specialNotes":"Different hours Wed\/Fri"
+  },
+  {
+    "name":"JB Outreach Ministries",
+    "description":"2nd & 4th Thursday only",
+    "address":"301 N. Stricker St",
+    "latitude":39.2912,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 644-5822",
+    "contactEmail":"James Bivens",
+    "imageUrl":"",
+    "adminId":"James Bivens",
+    "walkingDistance":26.0897837456,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":"2nd & 4th Thursday only"
+  },
+  {
+    "name":"Jesus Saving Ministries",
+    "description":"",
+    "address":"1625 N. Hilton St.",
+    "latitude":39.3073,
+    "longitude":-76.6654,
+    "contactPhone":"(410) 362-1911",
+    "contactEmail":"Barbara Davis",
+    "imageUrl":"",
+    "adminId":"Barbara Davis",
+    "walkingDistance":26.3551862382,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"12:00",
+        "close":"13:00"
+      },
+      "thursday":{
+        "open":"12:00",
+        "close":"13:00"
+      },
+      "friday":{
+        "open":"12:00",
+        "close":"13:00"
+      },
+      "saturday":{
+        "open":"12:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Johnston Square Community",
+    "description":"",
+    "address":"841 E. Chase St",
+    "latitude":39.3018,
+    "longitude":-76.6046,
+    "contactPhone":"(410) 685-5950",
+    "contactEmail":"Margaret Hawkes",
+    "imageUrl":"",
+    "adminId":"Margaret Hawkes",
+    "walkingDistance":27.9964952692,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"13:00",
+        "close":"16:00"
+      },
+      "tuesday":{
+        "open":"13:00",
+        "close":"16:00"
+      },
+      "wednesday":{
+        "open":"13:00",
+        "close":"16:00"
+      },
+      "thursday":{
+        "open":"13:00",
+        "close":"16:00"
+      },
+      "friday":{
+        "open":"13:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Jonah House",
+    "description":"",
+    "address":"1301 Moreland Ave.",
+    "latitude":39.3043,
+    "longitude":-76.6654,
+    "contactPhone":"(410) 233-6238",
+    "contactEmail":"Susan Crane",
+    "imageUrl":"",
+    "adminId":"Susan Crane",
+    "walkingDistance":26.1830211523,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"07:00",
+        "close":"18:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Judah Worship Center",
+    "description":"",
+    "address":"2000 Frederick Ave.",
+    "latitude":39.2841,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 466-5729",
+    "contactEmail":"Pastor Morton",
+    "imageUrl":"",
+    "adminId":"Pastor Morton",
+    "walkingDistance":25.700263287,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "saturday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Laurens House",
+    "description":"",
+    "address":"1330 Laurens St.",
+    "latitude":39.3043,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 728-5515",
+    "contactEmail":"Rosalie",
+    "imageUrl":"",
+    "adminId":"Rosalie",
+    "walkingDistance":27.035376422,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"13:00",
+        "close":"18:00"
+      },
+      "wednesday":{
+        "open":"13:00",
+        "close":"18:00"
+      },
+      "friday":{
+        "open":"13:00",
+        "close":"18:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Lexington Poe",
+    "description":"",
+    "address":"206 N. Fremont Ave.",
+    "latitude":39.2912,
+    "longitude":-76.6316,
+    "contactPhone":"(410) 396-0936",
+    "contactEmail":"Lorraine Ledbetter",
+    "imageUrl":"",
+    "adminId":"Lorraine Ledbetter",
+    "walkingDistance":26.5183494755,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Love of God",
+    "description":"",
+    "address":"321 N. Fulton St.",
+    "latitude":39.2878,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 362-2232",
+    "contactEmail":"Bettie Williams",
+    "imageUrl":"",
+    "adminId":"Bettie Williams",
+    "walkingDistance":26.1287088246,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"11:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Macedonia Baptist Church",
+    "description":"",
+    "address":"718 W. Lafayette St.",
+    "latitude":39.3018,
+    "longitude":-76.6347,
+    "contactPhone":"(410) 669-5776",
+    "contactEmail":"Gladys Augustus",
+    "imageUrl":"",
+    "adminId":"Gladys Augustus",
+    "walkingDistance":26.9964715218,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Manna Ministry of Greater Gethsemane",
+    "description":"",
+    "address":"2511 E. Preston St.",
+    "latitude":39.3058,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 675-2267",
+    "contactEmail":"Bertha Bell",
+    "imageUrl":"",
+    "adminId":"Bertha Bell",
+    "walkingDistance":28.9700790514,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Maryland Church of God",
+    "description":"",
+    "address":"5100 Denmore Ave.",
+    "latitude":39.3406,
+    "longitude":-76.6818,
+    "contactPhone":"(410) 367-2768",
+    "contactEmail":"Ethel Lee",
+    "imageUrl":"",
+    "adminId":"Ethel Lee",
+    "walkingDistance":27.8549805968,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"12:00",
+        "close":"17:00"
+      },
+      "tuesday":{
+        "open":"12:00",
+        "close":"17:00"
+      },
+      "wednesday":{
+        "open":"12:00",
+        "close":"17:00"
+      },
+      "thursday":{
+        "open":"12:00",
+        "close":"17:00"
+      },
+      "friday":{
+        "open":"12:00",
+        "close":"17:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Mason Memorial",
+    "description":"",
+    "address":"2608 Frederick Ave.",
+    "latitude":39.2841,
+    "longitude":-76.6562,
+    "contactPhone":"(410) 947-4466",
+    "contactEmail":"Mary Curtis",
+    "imageUrl":"",
+    "adminId":"Mary Curtis",
+    "walkingDistance":25.3282789675,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"09:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Metropolitan Church Pantry",
+    "description":"",
+    "address":"4815 Eastern Ave.",
+    "latitude":39.2878,
+    "longitude":-76.5516,
+    "contactPhone":"(410) 633-5516",
+    "contactEmail":"Grace Weber",
+    "imageUrl":"",
+    "adminId":"Grace Weber",
+    "walkingDistance":29.1990754646,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"09:00",
+        "close":"10:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Mount Moriah Baptist Church",
+    "description":"",
+    "address":"2201 Garrison Blvd.",
+    "latitude":39.3097,
+    "longitude":-76.6654,
+    "contactPhone":"(410) 945-3575",
+    "contactEmail":"Wilhelmina Davis",
+    "imageUrl":"",
+    "adminId":"Wilhelmina Davis",
+    "walkingDistance":26.4932804371,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"08:30",
+        "close":"12:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Mt Pleasant Church",
+    "description":"",
+    "address":"6000 Radecke Ave.",
+    "latitude":39.3406,
+    "longitude":-76.5516,
+    "contactPhone":"(410) 325-3080",
+    "contactEmail":"Aretha Allen",
+    "imageUrl":"",
+    "adminId":"Aretha Allen",
+    "walkingDistance":31.8724806416,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Mt. Tabor Baptist",
+    "description":"",
+    "address":"1719 E. Oliver St.",
+    "latitude":39.3073,
+    "longitude":-76.5897,
+    "contactPhone":"(410) 327-1740",
+    "contactEmail":"Rev. Forrest",
+    "imageUrl":"",
+    "adminId":"Rev. Forrest",
+    "walkingDistance":28.8003264356,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Fellowship Christian Community",
+    "description":"",
+    "address":"5202 Park Heights Ave.",
+    "latitude":39.3406,
+    "longitude":-76.6818,
+    "contactPhone":"(410) 367-5766",
+    "contactEmail":"Ann Quarles",
+    "imageUrl":"",
+    "adminId":"Ann Quarles",
+    "walkingDistance":27.8549805968,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"09:00",
+        "close":"12:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Gabriel Baptist Church",
+    "description":"",
+    "address":"1041 Wilmington Ave.",
+    "latitude":39.2841,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 840-3363",
+    "contactEmail":"Rev. Dykes",
+    "imageUrl":"",
+    "adminId":"Rev. Dykes",
+    "walkingDistance":25.700263287,
+    "offersDelivery":"",
+    "openingHours":{
+      "sunday":{
+        "open":"08:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Hope Church of God",
+    "description":"",
+    "address":"6601 Cleveland Ave.",
+    "latitude":39.3097,
+    "longitude":-76.5361,
+    "contactPhone":"(410) 282-2219",
+    "contactEmail":"Cynthia",
+    "imageUrl":"",
+    "adminId":"Cynthia",
+    "walkingDistance":30.8567242024,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"18:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"18:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"18:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"18:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"18:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Life Evangelical Baptist",
+    "description":"",
+    "address":"2417 E. North Ave.",
+    "latitude":39.3125,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 675-2178",
+    "contactEmail":"Rev. Williams",
+    "imageUrl":"",
+    "adminId":"Rev. Williams",
+    "walkingDistance":29.3200712636,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "tuesday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Life Fellowship",
+    "description":"",
+    "address":"559 Robert St.",
+    "latitude":39.3018,
+    "longitude":-76.6347,
+    "contactPhone":"(410) 466-7306",
+    "contactEmail":"Rita Yarborough",
+    "imageUrl":"",
+    "adminId":"Rita Yarborough",
+    "walkingDistance":26.9964715218,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Mount Zion Baptist Church",
+    "description":"",
+    "address":"817 N. Mount St.",
+    "latitude":39.2994,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 523-9082",
+    "contactEmail":"Peggy Mitchell",
+    "imageUrl":"",
+    "adminId":"Peggy Mitchell",
+    "walkingDistance":26.5438218626,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"10:00",
+        "close":"12:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"12:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"12:00"
+      },
+      "saturday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Shiloh Baptist Church",
+    "description":"",
+    "address":"2100 N. Monroe St.",
+    "latitude":39.3097,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 523-5306",
+    "contactEmail":"Sue Wilson",
+    "imageUrl":"",
+    "adminId":"Sue Wilson",
+    "walkingDistance":27.1201392926,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"13:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"New Zion Hill Baptist",
+    "description":"",
+    "address":"2432 E. North Ave.",
+    "latitude":39.3125,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 558-0950",
+    "contactEmail":"Pastor Barnes",
+    "imageUrl":"",
+    "adminId":"Pastor Barnes",
+    "walkingDistance":29.3200712636,
+    "offersDelivery":"",
+    "openingHours":{
+      "friday":{
+        "open":"10:00",
+        "close":"13:00"
+      },
+      "saturday":{
+        "open":"10:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"North Baltimore CARES",
+    "description":"",
+    "address":"5502 York Rd.",
+    "latitude":39.3406,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 433-2442",
+    "contactEmail":"Barbara Metz",
+    "imageUrl":"",
+    "adminId":"Barbara Metz",
+    "walkingDistance":29.9742216801,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"11:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"11:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Oaks at Liberty",
+    "description":"",
+    "address":"3501 Howard Park",
+    "latitude":39.3223,
+    "longitude":-76.6932,
+    "contactPhone":"(410) 466-9267",
+    "contactEmail":"Kimberly White",
+    "imageUrl":"",
+    "adminId":"Kimberly White",
+    "walkingDistance":26.4547543953,
+    "offersDelivery":"",
+    "openingHours":{
+      "friday":{
+        "open":"14:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Park Heights Community Center",
+    "description":"",
+    "address":"4917 Park Heights Ave.",
+    "latitude":39.3406,
+    "longitude":-76.6818,
+    "contactPhone":"(410) 578-1800",
+    "contactEmail":"Shirley Oliver",
+    "imageUrl":"",
+    "adminId":"Shirley Oliver",
+    "walkingDistance":27.8549805968,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"16:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"16:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"16:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"16:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Paul's Place Outreach Center",
+    "description":"",
+    "address":"1118 Ward St.",
+    "latitude":39.2783,
+    "longitude":-76.6316,
+    "contactPhone":"(410) 625-0775",
+    "contactEmail":"Bill McLiman",
+    "imageUrl":"",
+    "adminId":"Bill McLiman",
+    "walkingDistance":25.8250135608,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"08:30",
+        "close":"11:00"
+      },
+      "tuesday":{
+        "open":"08:30",
+        "close":"11:00"
+      },
+      "wednesday":{
+        "open":"08:30",
+        "close":"11:00"
+      },
+      "thursday":{
+        "open":"08:30",
+        "close":"11:00"
+      },
+      "friday":{
+        "open":"08:30",
+        "close":"11:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Payne Memorial Church",
+    "description":"",
+    "address":"1714 Madison Ave.",
+    "latitude":39.3073,
+    "longitude":-76.6316,
+    "contactPhone":"(410) 462-3800",
+    "contactEmail":"Margaret Solomon",
+    "imageUrl":"",
+    "adminId":"Margaret Solomon",
+    "walkingDistance":27.3997428504,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"People's Church of Baltimore",
+    "description":"",
+    "address":"230 N. Fulton Ave.",
+    "latitude":39.2912,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 945-7923",
+    "contactEmail":"Coretha Jones",
+    "imageUrl":"",
+    "adminId":"Coretha Jones",
+    "walkingDistance":26.3140524678,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"09:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Perkins Square Baptist Church",
+    "description":"",
+    "address":"2500 Edmondson Ave.",
+    "latitude":39.2929,
+    "longitude":-76.6562,
+    "contactPhone":"(410) 945-0445",
+    "contactEmail":"Edythe Gregory",
+    "imageUrl":"",
+    "adminId":"Edythe Gregory",
+    "walkingDistance":25.8185789616,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"14:00",
+        "close":"17:00"
+      },
+      "tuesday":{
+        "open":"14:00",
+        "close":"17:00"
+      },
+      "wednesday":{
+        "open":"14:00",
+        "close":"17:00"
+      },
+      "thursday":{
+        "open":"14:00",
+        "close":"17:00"
+      },
+      "friday":{
+        "open":"14:00",
+        "close":"17:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Pillar of Truth",
+    "description":"",
+    "address":"2522 Greenmount Ave.",
+    "latitude":39.3187,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 243-1141",
+    "contactEmail":"Lonnie Perry",
+    "imageUrl":"",
+    "adminId":"Lonnie Perry",
+    "walkingDistance":28.7657290262,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"17:00"
+      },
+      "tuesday":{
+        "open":"09:00",
+        "close":"17:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"17:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"17:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"17:00"
+      },
+      "saturday":{
+        "open":"09:00",
+        "close":"17:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Pitts Outreach",
+    "description":"",
+    "address":"1142 N. Fulton Ave.",
+    "latitude":39.3027,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 728-8782",
+    "contactEmail":"Rose Long",
+    "imageUrl":"",
+    "adminId":"Rose Long",
+    "walkingDistance":26.9466810327,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"14:30",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"14:30",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Pleasant Grove Food",
+    "description":"",
+    "address":"214 S. Loudon Ave.",
+    "latitude":39.2841,
+    "longitude":-76.6819,
+    "contactPhone":"(410) 646-1462",
+    "contactEmail":"Charlotte",
+    "imageUrl":"",
+    "adminId":"Charlotte",
+    "walkingDistance":24.5325764834,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Pleasant View Gardens",
+    "description":"",
+    "address":"201 N. Aisquith St.",
+    "latitude":39.2912,
+    "longitude":-76.6046,
+    "contactPhone":"(410) 396-9006",
+    "contactEmail":"Darrel Roaster",
+    "imageUrl":"",
+    "adminId":"Darrel Roaster",
+    "walkingDistance":27.4372209206,
+    "offersDelivery":"",
+    "openingHours":{
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Poppleton Co-op",
+    "description":"",
+    "address":"838 W. Fairmont Ave.",
+    "latitude":39.2886,
+    "longitude":-76.6316,
+    "contactPhone":"(410) 532-1517",
+    "contactEmail":"Jackie Brown",
+    "imageUrl":"",
+    "adminId":"Jackie Brown",
+    "walkingDistance":26.3776503776,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "tuesday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "wednesday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"11:00",
+        "close":"15:00"
+      },
+      "friday":{
+        "open":"11:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Prisoners Aid",
+    "description":"",
+    "address":"204 25th Street",
+    "latitude":39.3187,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 662-0359",
+    "contactEmail":"Michael Brown",
+    "imageUrl":"",
+    "adminId":"Michael Brown",
+    "walkingDistance":28.7657290262,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"10:00",
+        "close":"18:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Quality of Life Corp",
+    "description":"",
+    "address":"2630 Harford Rd.",
+    "latitude":39.3187,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 235-3972",
+    "contactEmail":"Ismenda Hendrix",
+    "imageUrl":"",
+    "adminId":"Ismenda Hendrix",
+    "walkingDistance":29.6467035029,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Ray of Hope",
+    "description":"",
+    "address":"3501 Parkside Dr.",
+    "latitude":39.3406,
+    "longitude":-76.5205,
+    "contactPhone":"(410) 661-9428",
+    "contactEmail":"George Crutchfield",
+    "imageUrl":"",
+    "adminId":"George Crutchfield",
+    "walkingDistance":32.978287622,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Refuge Way of Cross Church",
+    "description":"",
+    "address":"4301 Old York Rd.",
+    "latitude":39.3406,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 435-8339",
+    "contactEmail":"Frances Wellborn",
+    "imageUrl":"",
+    "adminId":"Frances Wellborn",
+    "walkingDistance":29.9742216801,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"12:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Royal Light Outreach",
+    "description":"",
+    "address":"1562 N. Fulton Ave.",
+    "latitude":39.3058,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 566-2940",
+    "contactEmail":"Al Lawson",
+    "imageUrl":"",
+    "adminId":"Al Lawson",
+    "walkingDistance":27.1186741813,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"11:00",
+        "close":"13:00"
+      },
+      "thursday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Salvation Army",
+    "description":"",
+    "address":"814 Light St",
+    "latitude":39.2783,
+    "longitude":-76.6121,
+    "contactPhone":"(410) 787-2920",
+    "contactEmail":"Crystal White",
+    "imageUrl":"",
+    "adminId":"Crystal White",
+    "walkingDistance":26.5014024539,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"08:30",
+        "close":"12:00"
+      },
+      "tuesday":{
+        "open":"08:30",
+        "close":"12:00"
+      },
+      "wednesday":{
+        "open":"08:30",
+        "close":"12:00"
+      },
+      "thursday":{
+        "open":"08:30",
+        "close":"12:00"
+      },
+      "friday":{
+        "open":"08:30",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Sharon Baptist",
+    "description":"3rd Saturday only",
+    "address":"1373 N. Stricker St.",
+    "latitude":39.3046,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 669-6667",
+    "contactEmail":"Elaine Brown Page",
+    "imageUrl":"",
+    "adminId":"Elaine Brown Page",
+    "walkingDistance":26.8339662534,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":"3rd Saturday only"
+  },
+  {
+    "name":"Second Shiloh",
+    "description":"",
+    "address":"1355 Homestead St",
+    "latitude":39.3257,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 366-1025",
+    "contactEmail":"Wanda Hudson",
+    "imageUrl":"",
+    "adminId":"Wanda Hudson",
+    "walkingDistance":29.1489122705,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"11:00",
+        "close":"13:00"
+      },
+      "wednesday":{
+        "open":"11:00",
+        "close":"13:00"
+      },
+      "thursday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Solomon Temple Baptist Church",
+    "description":"",
+    "address":"1738 Appleton Street",
+    "latitude":39.3073,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 566-2105",
+    "contactEmail":"Rev. Thomas Sledge",
+    "imageUrl":"",
+    "adminId":"Rev. Thomas Sledge",
+    "walkingDistance":26.9852744768,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Southwest Emergency Food Program",
+    "description":"",
+    "address":"31 S. Payson St",
+    "latitude":39.2878,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 396-1740",
+    "contactEmail":"Eugene Holt",
+    "imageUrl":"",
+    "adminId":"Eugene Holt",
+    "walkingDistance":25.9028244415,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"15:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"15:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"South Baltimore Emergency",
+    "description":"",
+    "address":"110 E. West St",
+    "latitude":39.2783,
+    "longitude":-76.6121,
+    "contactPhone":"(410) 752-1336",
+    "contactEmail":"Elizabeth Baer",
+    "imageUrl":"",
+    "adminId":"Elizabeth Baer",
+    "walkingDistance":26.5014024539,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"13:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"13:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"13:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"13:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Southwest Neighborhood Service Center",
+    "description":"",
+    "address":"3411 Bank St.",
+    "latitude":39.2878,
+    "longitude":-76.5671,
+    "contactPhone":"(410) 545-6515",
+    "contactEmail":"Carrene Bullard",
+    "imageUrl":"",
+    "adminId":"Carrene Bullard",
+    "walkingDistance":28.6162987488,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Abraham Baptist Church",
+    "description":"1st & 3rd Wednesday",
+    "address":"1124 W. North Ave.",
+    "latitude":39.3097,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 383-6919",
+    "contactEmail":"Rev. Clarence Yerby",
+    "imageUrl":"",
+    "adminId":"Rev. Clarence Yerby",
+    "walkingDistance":27.3358994345,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"09:30",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":"1st & 3rd Wednesday"
+  },
+  {
+    "name":"St. Ambrose",
+    "description":"",
+    "address":"3445 Park Heights Ave.",
+    "latitude":39.3318,
+    "longitude":-76.6818,
+    "contactPhone":"(410) 225-0870",
+    "contactEmail":"Inez",
+    "imageUrl":"",
+    "adminId":"Inez",
+    "walkingDistance":27.3278216572,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "tuesday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"16:00"
+      },
+      "friday":{
+        "open":"09:00",
+        "close":"16:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Ann Outreach Ctr.",
+    "description":"Different hours for Tue and Sat",
+    "address":"528 E. 22nd St.",
+    "latitude":39.3153,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 235-8169",
+    "contactEmail":"Sister Jean",
+    "imageUrl":"",
+    "adminId":"Sister Jean",
+    "walkingDistance":28.5807109965,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"08:00",
+        "close":"14:00"
+      },
+      "saturday":{
+        "open":"08:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":"Different hours for Tue and Sat"
+  },
+  {
+    "name":"St. Bernadine's Catholic",
+    "description":"",
+    "address":"3812 Edmondson Ave.",
+    "latitude":39.2929,
+    "longitude":-76.6819,
+    "contactPhone":"(410) 362-8664",
+    "contactEmail":"Deacon Phil",
+    "imageUrl":"",
+    "adminId":"Deacon Phil",
+    "walkingDistance":25.0385620121,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"10:00",
+        "close":"12:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"12:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Cecilia",
+    "description":"",
+    "address":"3300 Clifton Ave.",
+    "latitude":39.3097,
+    "longitude":-76.6689,
+    "contactPhone":"(410) 624-3600",
+    "contactEmail":"Robert Viner",
+    "imageUrl":"",
+    "adminId":"Robert Viner",
+    "walkingDistance":26.390425636,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Elizabeth Food Pantry",
+    "description":"",
+    "address":"2 N. Belnord Ave.",
+    "latitude":39.2886,
+    "longitude":-76.5671,
+    "contactPhone":"(410) 675-8260",
+    "contactEmail":"Lucy D'Pinto",
+    "imageUrl":"",
+    "adminId":"Lucy D'Pinto",
+    "walkingDistance":28.6560310366,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"11:30",
+        "close":"13:30"
+      },
+      "friday":{
+        "open":"11:30",
+        "close":"13:30"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Gregory the Great",
+    "description":"",
+    "address":"1542 N. Gilmore St.",
+    "latitude":39.3058,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 523-0061",
+    "contactEmail":"Gloria Williams",
+    "imageUrl":"",
+    "adminId":"Gloria Williams",
+    "walkingDistance":26.9011597034,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "tuesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "wednesday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"14:00"
+      },
+      "friday":{
+        "open":"10:00",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Luke Temple",
+    "description":"Different hours for Tue and Fri",
+    "address":"1821 N. Smallwood Street",
+    "latitude":39.3073,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 225-9409",
+    "contactEmail":"Edna Evans",
+    "imageUrl":"",
+    "adminId":"Edna Evans",
+    "walkingDistance":26.9852744768,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"17:00",
+        "close":"21:00"
+      },
+      "friday":{
+        "open":"17:00",
+        "close":"21:00"
+      }
+    },
+    "specialNotes":"Different hours for Tue and Fri"
+  },
+  {
+    "name":"St. Mark's UMC\/Bread of Life",
+    "description":"",
+    "address":"3900 Liberty Heights Ave.",
+    "latitude":39.3318,
+    "longitude":-76.6819,
+    "contactPhone":"(410) 542-5338",
+    "contactEmail":"Richard Wright",
+    "imageUrl":"",
+    "adminId":"Richard Wright",
+    "walkingDistance":27.3251333739,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"17:30",
+        "close":"19:00"
+      },
+      "friday":{
+        "open":"17:30",
+        "close":"19:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Michael Outreach",
+    "description":"",
+    "address":"1922 E. Lombard St.",
+    "latitude":39.2912,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 732-2176",
+    "contactEmail":"Lisa Knickmeyer",
+    "imageUrl":"",
+    "adminId":"Lisa Knickmeyer",
+    "walkingDistance":28.2186810452,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "wednesday":{
+        "open":"09:00",
+        "close":"12:00"
+      },
+      "thursday":{
+        "open":"09:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Paul Baptist Church",
+    "description":"Extended hours Thursday",
+    "address":"3101 The Alameda",
+    "latitude":39.3257,
+    "longitude":-76.6088,
+    "contactPhone":"(410) 366-0096",
+    "contactEmail":"Thelma Gentry",
+    "imageUrl":"",
+    "adminId":"Thelma Gentry",
+    "walkingDistance":29.1489122705,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"10:00",
+        "close":"19:00"
+      },
+      "thursday":{
+        "open":"10:00",
+        "close":"19:00"
+      }
+    },
+    "specialNotes":"Extended hours Thursday"
+  },
+  {
+    "name":"St. Vincent's Emergency Services",
+    "description":"",
+    "address":"120 N. Front St.",
+    "latitude":39.2912,
+    "longitude":-76.6046,
+    "contactPhone":"(410) 962-5078",
+    "contactEmail":"Jeanne Cole",
+    "imageUrl":"",
+    "adminId":"Jeanne Cole",
+    "walkingDistance":27.4372209206,
+    "offersDelivery":"",
+    "openingHours":{
+      "monday":{
+        "open":"12:30",
+        "close":"14:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"St. Wenceslaus",
+    "description":"",
+    "address":"2100 E. Madison St.",
+    "latitude":39.3018,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 675-3320",
+    "contactEmail":"Audrey Wasson",
+    "imageUrl":"",
+    "adminId":"Audrey Wasson",
+    "walkingDistance":28.762650177,
+    "offersDelivery":"",
+    "openingHours":{
+      "wednesday":{
+        "open":"11:00",
+        "close":"13:00"
+      },
+      "thursday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Temple House",
+    "description":"",
+    "address":"812 N. Fulton Ave.",
+    "latitude":39.2994,
+    "longitude":-76.6378,
+    "contactPhone":"(410) 462-1876",
+    "contactEmail":"Stanley Butler",
+    "imageUrl":"",
+    "adminId":"Stanley Butler",
+    "walkingDistance":26.7642606299,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"10:00",
+        "close":"12:00"
+      },
+      "saturday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"The Tree of Life Bible Church",
+    "description":"",
+    "address":"516 N. Schroeder St.",
+    "latitude":39.2939,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 542-1928",
+    "contactEmail":"Lassiter Basket",
+    "imageUrl":"",
+    "adminId":"Lassiter Basket",
+    "walkingDistance":26.2388007579,
+    "offersDelivery":"",
+    "openingHours":{
+      "tuesday":{
+        "open":"15:00",
+        "close":"19:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Total Man Outreach",
+    "description":"",
+    "address":"1116 N. Gilmore St.",
+    "latitude":39.3027,
+    "longitude":-76.6447,
+    "contactPhone":"(410) 728-8151",
+    "contactEmail":"Willie Williams",
+    "imageUrl":"",
+    "adminId":"Willie Williams",
+    "walkingDistance":26.7277571719,
+    "offersDelivery":"",
+    "openingHours":{
+      "saturday":{
+        "open":"10:00",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Trinity AME Church",
+    "description":"",
+    "address":"2140 E. Hoffman St.",
+    "latitude":39.3125,
+    "longitude":-76.5826,
+    "contactPhone":"(410) 342-2320",
+    "contactEmail":"Nancy Woodhouse",
+    "imageUrl":"",
+    "adminId":"Nancy Woodhouse",
+    "walkingDistance":29.3200712636,
+    "offersDelivery":"",
+    "openingHours":{
+      "thursday":{
+        "open":"11:00",
+        "close":"13:00"
+      }
+    },
+    "specialNotes":""
+  },
+  {
+    "name":"Trinity Apostolic Faith",
+    "description":"",
+    "address":"3600 W. Rogers Ave.",
+    "latitude":39.3318,
+    "longitude":-76.6819,
+    "contactPhone":"(410) 448-1215",
+    "contactEmail":"Elizabeth Milburn",
+    "imageUrl":"",
+    "adminId":"Elizabeth Milburn",
+    "walkingDistance":27.3251333739,
+    "offersDelivery":"",
+    "openingHours":{
+      "sunday":{
+        "open":"09:30",
+        "close":"12:00"
+      }
+    },
+    "specialNotes":""
+  }
+]
