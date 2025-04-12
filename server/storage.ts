@@ -131,7 +131,7 @@ export class MemStorage implements IStorage {
         longitude: -112.075,
         contactPhone: "(602) 555-2345",
         contactEmail: "contact@communityhopecenter.org",
-        imageUrl: "https://images.unsplash.com/photo-1544427920-c49ccfb85579",
+        imageUrl: "https://images.squarespace-cdn.com/content/v1/5f872beaa1b43421e47649a4/cdc97fab-1d2f-41ed-a632-ca5d3682fd5b/DSC02881.jpg",
         adminId: 1,
         walkingDistance: 1.2,
         offersDelivery: true,
@@ -380,6 +380,13 @@ export class MemStorage implements IStorage {
         pantryId: 2,
         rating: 4,
         comment: "The line was quite long but moved quickly. They had a good variety of food, but were out of meat when I visited. The produce was fresh, and they also had some gluten-free options which was nice!",
+        createdAt: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000) // 7 days ago
+      },
+      {
+        userId: 1,
+        pantryId: 3,
+        rating: 4,
+        comment: "I enjoyed my experience here. Some of the produce was bad but the staff were friendly and helpful!",
         createdAt: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000) // 7 days ago
       }
     ];
