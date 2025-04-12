@@ -5,12 +5,12 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY || "",
-  authDomain: `${import.meta.env.VITE_FIREBASE_PROJECT_ID || ""}.firebaseapp.com`,
-  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID || "",
-  storageBucket: `${import.meta.env.VITE_FIREBASE_PROJECT_ID || ""}.appspot.com`,
-  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID || "",
-  appId: import.meta.env.VITE_FIREBASE_APP_ID || ""
+  apiKey: "AIzaSyBGWRZyimxCPNSE7Uzwt5xzJrgZGcYnmfw",
+  authDomain: "freefood-e1766.firebaseapp.com",
+  projectId: "freefood-e1766",
+  storageBucket: "freefood-e1766.appspot.com",
+  messagingSenderId: "450198343409",
+  appId: "1:450198343409:web:7872991dd70a0001a0a350"
 };
 
 // Initialize Firebase
