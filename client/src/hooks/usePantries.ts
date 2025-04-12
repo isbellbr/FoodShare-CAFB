@@ -1,8 +1,17 @@
 import { useState, useEffect, useMemo } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Pantry, PantryFilter, FoodItem, Review } from "@/types";
-import { getAllPantries, getPantryFoodItems, getPantryReviews } from "@/lib/firebase";
 import { getPantryStatus } from "@/lib/utils";
+import { apiRequest } from "@/lib/queryClient";
+
+// Helper function to convert number IDs to string IDs expected by frontend
+const convertPantry = (pantry: any): Pantry => {
+  return {
+    ...pantry,
+    id: pantry.id.toString(), // Convert number ID to string
+    adminId: pantry.adminId?.toString() || undefined
+  };
+}
 
 export const usePantries = (
   userLocation: { latitude: number; longitude: number } | null,
@@ -10,7 +19,11 @@ export const usePantries = (
 ) => {
   const { data: pantries = [], isLoading, error } = useQuery({
     queryKey: ["pantries"],
-    queryFn: () => getAllPantries(),
+    queryFn: async () => {
+      const response = await apiRequest<any[]>("/api/pantries");
+      // Convert number IDs to string IDs for client-side compatibility
+      return response.map((pantry: any) => convertPantry(pantry));
+    },
     staleTime: 5 * 60 * 1000, // 5 minutes
   });
 
@@ -81,6 +94,26 @@ export const usePantries = (
   };
 };
 
+// Helper function to convert number IDs to string IDs expected by frontend for food items
+const convertFoodItem = (item: any): FoodItem => {
+  return {
+    ...item,
+    id: item.id.toString(),
+    pantryId: item.pantryId.toString()
+  };
+};
+
+// Helper function to convert number IDs to string IDs expected by frontend for reviews
+const convertReview = (review: any): Review => {
+  return {
+    ...review,
+    id: review.id.toString(),
+    userId: review.userId.toString(),
+    pantryId: review.pantryId.toString(),
+    createdAt: new Date(review.createdAt)
+  };
+};
+
 export const usePantryDetails = (
   pantryId: string | undefined
 ) => {
@@ -101,25 +134,24 @@ export const usePantryDetails = (
       setError(null);
 
       try {
-        // Fetch pantries if we don't have them cached
-        const pantriesRes = await getAllPantries();
-        const foundPantry = pantriesRes.find(p => p.id === pantryId);
+        // Get pantry details from API
+        const pantry = await apiRequest<any>(`/api/pantries/${pantryId}`);
         
-        if (!foundPantry) {
+        if (!pantry) {
           setError("Pantry not found");
           setIsLoading(false);
           return;
         }
 
-        setSelectedPantry(foundPantry);
+        setSelectedPantry(convertPantry(pantry));
 
         // Fetch food items for this pantry
-        const foodItemsRes = await getPantryFoodItems(pantryId);
-        setFoodItems(foodItemsRes as FoodItem[]);
+        const foodItemsRes = await apiRequest<any[]>(`/api/pantries/${pantryId}/food-items`);
+        setFoodItems(foodItemsRes.map((item: any) => convertFoodItem(item)));
 
         // Fetch reviews
-        const reviewsRes = await getPantryReviews(pantryId);
-        setReviews(reviewsRes as Review[]);
+        const reviewsRes = await apiRequest<any[]>(`/api/pantries/${pantryId}/reviews`);
+        setReviews(reviewsRes.map((review: any) => convertReview(review)));
       } catch (err) {
         console.error("Error fetching pantry details:", err);
         setError("Failed to load pantry details");
