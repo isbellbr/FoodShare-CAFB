@@ -61,7 +61,7 @@ app.use((req, res, next) => {
   // It is the only port that is not firewalled.
   const port = 5000;
   // Example route
-  app.get("/api/hello", (req, res) => {
+  app.get("/api/hello", (_, res) => {
     res.json({ message: "Hello from Express on Vercel!" });
   });
   // ❌ No app.listen() here!
