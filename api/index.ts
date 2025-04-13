@@ -1,6 +1,7 @@
 import express, { type Request, Response, NextFunction } from "express";
 import { registerRoutes } from "../server/routes";
 import { setupVite, serveStatic, log } from "../server/vite";
+import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 const app = express();
 app.use(express.json());
@@ -36,8 +37,6 @@ app.use((req, res, next) => {
   next();
 });
 
-export default app;
-
 (async () => {
   const server = await registerRoutes(app);
 
@@ -68,3 +67,7 @@ export default app;
   });
   
 })();
+
+export default function handler(req: VercelRequest, res: VercelResponse) {
+  res.status(200).json({ message: "Hello from Vercel!" });
+}
