@@ -66,14 +66,5 @@ export default app;
   app.get("/api/hello", (_, res) => {
     res.json({ message: "Hello from Express on Vercel!" });
   });
-  // ❌ No app.listen() here!
-
-  // server.listen({
-  //   port,
-  //   host: "localhost",
-  //   reusePort: true,
-  // }, () => {
-  //   log(`serving on port ${port}`);
-  // });
   
 })();
