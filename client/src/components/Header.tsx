@@ -18,6 +18,21 @@ export default function Header({ onSearch }: HeaderProps) {
     }
   };
 
+  const Navbar = () => {
+    const [location] = useLocation();
+    return (
+      <nav className="ml-6">
+        <div className="flex items-center space-x-6 text-sm font-medium text-neutral-700">
+          <Link href="/"><a className={`hover:underline ${location === "/" ? "text-primary" : ""}`}>Home</a></Link>
+          <Link href="/search"><a className={`hover:underline ${location === "/search" ? "text-primary" : ""}`}>Search</a></Link>
+          <Link href="/profile"><a className={`hover:underline ${location === "/profile" ? "text-primary" : ""}`}>Profile</a></Link>
+          <Link href="/saved"><a className={`hover:underline ${location === "/saved" ? "text-primary" : ""}`}>Saved</a></Link>
+          <Link href="/admin"><a className={`hover:underline ${location === "/admin" ? "text-primary" : ""}`}>Admin</a></Link>
+        </div>
+      </nav>
+    );
+  };
+
   return (
     <header className="bg-white shadow-sm sticky top-0 z-10">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
@@ -28,6 +43,7 @@ export default function Header({ onSearch }: HeaderProps) {
               <span className="md:hidden">FS</span>
             </h1>
           </Link>
+          <Navbar />
         </div>
         <div className="flex items-center space-x-3">
           <button
