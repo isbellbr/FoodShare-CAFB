@@ -97,7 +97,7 @@ export default function Home() {
           {isLoading ? (
             <div className="h-7 bg-gray-200 animate-pulse rounded w-48"></div>
           ) : (
-            `Available Today (${pantries.length})`
+            `Available (${pantries.length})`
           )}
         </h2>
         
