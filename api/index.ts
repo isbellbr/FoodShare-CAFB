@@ -36,6 +36,8 @@ app.use((req, res, next) => {
   next();
 });
 
+export default app;
+
 (async () => {
   const server = await registerRoutes(app);
 
@@ -65,7 +67,6 @@ app.use((req, res, next) => {
     res.json({ message: "Hello from Express on Vercel!" });
   });
   // ❌ No app.listen() here!
-  module.exports = app;
 
   // server.listen({
   //   port,
