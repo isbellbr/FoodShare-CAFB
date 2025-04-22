@@ -3950,7 +3950,7 @@ export class MemStorage implements IStorage {
         "description":"Loose groceries",
         "address":"13950 Richmond Highway Woodbridge VA 22191",
         "latitude":38.65208,
-        "longitude":-76.25979,
+        "longitude":-77.25979,
         "contactPhone":"(703) 969-0197",
         "contactEmail":"",
         "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipO2DBNCwL5fzaPQXBEvHuwqnsdx4xjf6ltIFnnf=w618-h240-k-no",
